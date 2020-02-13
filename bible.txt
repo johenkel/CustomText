@@ -1,0 +1,232 @@
+This is the book file.
+
+This file format works similar to the info.txt, motd.txt and rules.txt
+
+Place content in here that you would like to be used by books ingame.
+
+You can use this content by using the book:<section> meta option in kits or item spawning.
+
+#bible
+&8&l⚓ &1&lPirateCraft &8&l⚓
+&0 
+Ahoy matey! Tis be
+PirateCraft&r!
+Strong enough for
+Looting, Killin?
+Will you Build a 
+Ship or Steal one?
+Build a Village or
+Empire? 
+&9/gettingstarted&r.
+&0 
+&5&lwww.piratemc.com
+&nAbout us&r
+&0 
+Pirate themed 
+survival
+&c&l⚓&0 Working Ships
+&c&l⚓&0 Cannons
+&c&l⚓&0 Brewing
+&c&l⚓&0 Crews && Ranking
+&c&l⚓&0 Gates && Bridges
+&c&l⚓&0 GriefPrevention
+&0  
+&9/guides&r.
+&0 
+&nPirate Code&r
+&0 
+&c&l✗&0 Be Respectful
+&c&l✗&0 Be Polite
+&c&l✗&0 No X-ray
+&c&l✗&0 No Begging
+&c&l✗&0 No Cheating
+&c&l✗&0 No Advertising
+&c&l✗&0 Don`t contest staff
+&c&l✗&0 Don`t build close 
+to pirates or warps
+&0 
+Full &9/rules&0 list.
+&nPirate Code 2&r
+&0 
+&a&l✓&0 You can loot
+&a&l✓&0 Steal ships
+&a&l✓&0 You can PvP
+&a&l✓&0 Use Optifine
+&a&l✓&0 Build traps
+&0 
+&l&oTip&0: &9/rankup
+&0to use &9/tp &0and
+&0unlock more
+&0commands!
+&0 
+&nProtect Land&r
+&0 
+Right click with any
+&6&lGolden shovel&0 to 
+protect && resize 
+claims.
+Right click with a
+&6&lstick&0 to examine 
+land claims.
+&0 
+Full info &9/claims&0
+&0 
+&0 
+&nProtect Land 2&r
+&oStand in a claim to:
+&9/trust&0 Player Build
+&9/untrust 
+&9/at&0 Use buttons, 
+levers, && beds
+&9/trustlist&0 Who is?
+&9/sc&0 Subdivide claim
+&9/AbandonClaim&0
+Deletes claim.
+&9/givepet&0 Give pet!
+&9/AbandonAllClaims&0
+Deletes all claims!
+&nProtect Land 3&r
+&9/BuyClaim&0 
+Buy claim blocks.
+&9/SellClaim&0 
+Sell claims.
+&9/siege&0
+To attack a player.
+&9/resizeclaim&0
+Facing direction
+&9/permissiontrust&0
+Set perms in claim
+&9/restrictsubclaim
+&0Subclaim no-inherit
+&nProtect Land 4&r
+&9/trapped
+&0Escape being stuck
+&9/claim &0Create
+&0claim without shovel
+&9/claimslist
+&0List claims info
+&9/claimexplosions
+&0Toggle explosions
+&l&oTip&0: Dig down
+and build up to auto
+claim vertical!
+Full info &9/claims&0
+&nRanks&0 (&9/rankup&0)
+&c1&0 Deckhand
+&c2&0 Cadet &3»
+&c3&7 Sailor &9»
+&c4&7 Carpenter &6»
+&c5&7 Gunner &e»
+&c6&7 Boatswain &d»
+&c7&7 Firstmate &b»
+&c8&7 Quartermaster &4»
+&r&nContributor Ranks&0
+&c&l⚓&a Lieutenant&7 &f★
+&c&l⚓&a Commander&6 &6★★
+&c&l⚓&a Captain&d &d★★★
+&nStaff&0 (&9/staff&0)
+&0 
+&c&l⚓&b Housewright &0Build
+&c&l⚓&3 Privateer &0Chat
+&c&l⚓&b Shipwright &0Dev
+&c&l⚓&9 Commodore &0Mod
+&c&l⚓&6 RearAdmiral &0Admin
+&c&l⚓&c Admiral &0Owner
+&0 
+&0 
+&0 
+&0 
+&0 
+&nContributor Perks!
+&9/donate &0now!
+&c1&0 Green Username!
+&c2&0 More Sethomes!
+&c3&0 Donator Kits!
+&c4&0 Spawn Eggs!
+&c5&0 &9/back&0 && &9/top&0!
+&c6&0 In-game Money!
+&c7&0 Donator Ships!
+&c8&0 More Cannons!
+&c9&0 Inherit Ranks!
+&c10&0 No TP cooldowns!
+&c11&0 Add Map icons!
+&c12&0 More shops!
+&c13&0 Inv management!
+&c14&0 Better banners!
+&c15&0 &9/workbench&r
+&c16&0 &9/near&r
+&c17&0 &9/tptoggle&r
+&c18&0 Color signs!
+&c19&0 Creative plots!
+&c20&0 Creative WE/VS!
+&0 
+&9/donate&0 now!
+&0+2 months!
+&0 
+&nPirate Commands&0
+&0 
+&9/howtoplay&0 New?
+&9/rules&0 List Rules
+&9/map&0 Map Link
+&9/travel&0 Warps!
+&9/donate&0 VIP
+&9/info&0 Overview
+&9/ships&0 Ship info
+&9/coinage&0 Money
+&9/help&0 All Commands
+&9/spawn&0 Go to spawn
+&9/sethome&0 Sets Home
+&9/delhome&0 Deletes
+&9/home&0 Warp home
+&9/lotto buy&0 Enter Lotto
+&9/stats&0 Stats
+&9/rank&0 Ranking
+&9/track&0 Track Rank
+&9/crews&0 Crews
+&9/afk&0 Set Away
+&9/bal&0 Wallet 
+&9/eignore&0 A pirate 
+&9/kits&0 Kits 
+&9/mail&0 Email
+&9/msg&0+&9/r&0 Directories 
+&9/warps&0 Warps
+&9/vote&0 Money
+&9/shop&0 Shops
+&9/brewing&0 Custom
+&9/request&0 Requests
+&9/calc&0 Calculator 
+&9/bounty&0 Place 
+&9/changelog&0 Changes
+&9/crew profile&0 Info about crew
+&9/crew profile (name)&0Info on another crew
+&9/crew create tag name&0 Create a crew
+&9/crew members&0 Members of your crew
+&9/crew members (name)&0 Members of another crew,
+&9/crew setrank (player) (rank)&0 Give a crew member a custom rank
+&9/crew ally add (name) &0add an ally to crew
+&nMinecraft colors&r:
+&0 
+&0 &&0  &1 &&1  &2 &&2  &3 &&3
+&4 &&4  &5 &&5  &6 &&6  &7 &&7
+&8 &&8  &9 &&9  &a &&a  &b &&b
+&c &&c  &d &&d  &e &&e  &f &&f
+&0 
+&&l &lBold
+&&m &mStrike&r  &&n &nUline
+&&o &oItalic&r   &&r &rReset
+&0 
+&0 
+&0 
+&nCredits&0
+&0By: &c&lGodsDead&r
+&0Pirate Code: &c1.10
+&9www.piratemc.com 
+&0 
+&0Join &9/discord&0
+&0Join &9/teamspeak&0
+&0Facebook:
+&cpirateminecraft
+&0Instagram:
+&c@piratecraft
+&0Reddit:
+&c/r/piratecraft/

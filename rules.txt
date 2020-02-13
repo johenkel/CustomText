@@ -21,3 +21,25 @@
 &63. When Trading, only buy and sell legit items
 &64. Only help build for other players using legit items and blocks
 &65. No Power Abuse
+
+&6&lYou are responsible for all activity on your account and from your IP.
+&c1)&r Be polite & respectful to players (no trolling, harassing, bullying, etc)
+&c2)&r Anything &9/staff&r says, goes.
+&c3)&r No hacking, No XRAY, cheating or exploiting glitches. No client mod(s).
+&c4)&r No begging. Goods will not be replenished.
+&c5)&r Only claim land intended for use. Do not build close to spawn.
+&c6)&r No advertising at all.
+&c7)&r Do not game stats, bounties or abuse game mechanics.
+&c8)&r Keep chat readable, English only and PG-rated. (No spam or caps abuse)
+&c9)&r Use common sense.
+&e-- &6Rules for Building &e-- &r
+&c10)&r No offensive structures.
+&c11)&r No building within eyesight of spawn.
+&c12)&r No building outside of worlds (Not on top of nether)
+&e-- &6Punishments &e-- &r
+Punishments can be singular or a mix of the following: Kick, Jail, Warning, Temp Mute, Perminant Mute, Temp Ban, Perminant Ban, Stats & Rank reset.
+&63&r Warnings of any kind will get you a ban.
+No sanction appeal ingame. Do not try to pass over a sanction.
+
+Detailed Rules can be found at &dhttp://piratemc.com/information/rules &r
+History of sanctions can be found at &dhttp://piratemc.com/punishments/ &r
