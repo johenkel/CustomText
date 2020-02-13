@@ -1,0 +1,156 @@
+&7&oAhoy {PLAYER}&7 Livemap: &d&npiratemc.com/map
+&7Balance:&a {BALANCE}&7 | Mail:&a {MAILS}
+&9/motd&7 Latest Updates
+&9/howtoplay&7 First time playing guide
+&9/rules&7 Rules List
+&9/claims&7 Protecting Land & Builds
+&9/crews&7 Creating a crew & Info
+&9/ranks&7 List All Ranks & Perks
+&9/rank&7 Check your rank progress
+&9/info donate&7 & &9/warp donate&7 Information
+&9/donate&7 for Ranks, Claims and In-Game Money
+&9/coinage&7 Earn/Spend Money
+&9/shop&7 How to build a shop
+&9/ships&7 List ship types & Statistics
+&9/cannons&7 & &/9warp cannons&r
+&9/gates&7 Build Gates
+&9/bridges&7 Build Bridges
+&9/brewing&7 Brew some Rum Yohoho!
+&9/help&7 Displays all avalible commands
+#claims
+&7Right click with a &6Golden spade&7 to create claims, 
+&7Resize by standing inside & right clicking the glowstone corner, Right click again where you want to expand/shrink.
+
+&7Right clicking with a &6stick&7 examines claim ownership.
+
+&7Detailed information can be found on our website at:
+&d&nhttps://piratemc.com/guides/claims/
+#donate
+&7Buy Ranks, Claim Blocks & Rank-Upgrades &9/donate&7
+&7There are 3 &9/donate&7 ranks;
+&aLieutenant&f »&7, &aCommander&6 »&7 & &aCaptain &d»
+
+&7Each rank has its own perks, all donator packages include:
+&c-&a Green Username&7 + Badge for Commander & Captain
+&c-&7 Join a full server.
+&c-&7 Exempt from AFK Kick
+&c-&7 More set homes, 3, 4 & 5
+&c-&7 Initial choice of spawn eggs/gifts
+&c-&7 Initial In-Game money gift
+&c-&7 &9/top&7 As Commander & &9/back&7 as Captain
+&c-&7 Bigger Ships
+&c-&7 More Cannons
+&c-&7 Create Map Icons
+&c-&7 &9/time /wb /near /tptoggle /hat&7 & More VIP commands
+&c-&7 Donator &9/kits&7 & all &9/warps&7
+&c-&7 Inherit all other ranks
+&c-&7 Chat & Sign colours & formatting
+&7Full Donate perks & prices avalible at:
+&d&nhttps://piratemc.com/donate/ &7
+&7Visit &7/warp donate&7 for a visual representation.
+
+#ranks
+&7Use &9/rank&7 for promotion requirements.
+&6-- &lRankable -- &r
+&7»&7 Deckhand     &b»&7 Firstmate
+&3»&7 Cadet      &l &l &l &4»&7 Quartermaster
+&9»&7 Sailor
+&6»&7 Carpenter
+&e»&7 Gunner
+&d»&7 Boatswain
+
+&6-- &lDonator Ranks -- &r
+&9/donate&7 For these ranks.
+&7»&a Lieutenant&7  ⌂⌂⌂
+&6»&a Commander&7 ⌂⌂⌂⌂
+&d»&a Captain&7     ⌂⌂⌂⌂⌂
+
+&7Donator ranks inherit all rankable ranks!
+&7All perks &5https://piratemc.com/donate/
+
+&7PirateCraft Team &dhttps://piratemc.com/information/team/ &7
+&7Use &9/staff&7 for online staff members.
+&6-- &lStaff Ranks -- &r
+&7»&b Privateer&7 Media          &7»&f Craftsman&7 Builder
+&7»&9 Commodore&7 Mod        &l &l &7»&b Housewright&7 Lead Builder
+&7»&9 SeaArtist&7 Media & Mod
+&7»&6 RearAdmiral&7 Admin
+&7»&5 ViceAdmiral&7 Admin & OP
+&7»&c Admiral&7 Owner
+&6-- &lDetail -- &r
+&7Full Rank information & Commands list at
+&dhttps://piratemc.com/guides/ranks/ &7
+
+&7You can bypass ranking-up with &9/donate&7.
+&7rankable ranks are permanent. 
+&7Special Donate ranks are 2 months.
+
+
+#siege
+
+&7You can &9/siege&7 a claimed area when the owner is inside, 
+&7Siege lasts until someone wins.
+&7You loose a siege by diying or leaving the claim.
+&7aYou will be able to break soft blocks during a siege.
+
+&e ----- &6Siege Soft Blocks&e ----- 
+&7&o DIRT, GRASS, DEADBUSH, LONG_GRASS, DOUBLE_PLANT, TALLGRASS, LEAVES, LEAVES2, COBBLESTONE, END_STONE, GRAVEL, SAND, GLASS, THIN_GLASS, WOOD, WOOL, SNOW, STAINED_GLASS, STAINED_GLASS_PANE, WOOD_DOUBLE_STEP, WOOD_STEP, NETHERRACK, GRASS_PATH, MELON, NETHER_WARTS, CARROT, POTATO, SUGAR_CANE, WHEAT, YELLOW_FLOWER, FLOWER_POT_ITEM, COBBLESTONE_STAIRS
+
+#eco
+&2&nEarning Money&7
+
+&c- &9/donate&7 Packages include in-game money, Go to Misc just for money.
+&c- &7Sell Claim blocks with &9/SellClaim&7
+&c- &7Selling Items at &9/warps&7.
+&c- &7Win cash prizes from at &9/vote&7 (3 Votes Required).
+&c- &7Start a &9/shop&7 and sell items.
+&c- &7Win the &9/lottery&7, Drawn every 2 Hours.
+&c- &7Collect Bountys. Check &9/bounty list&r
+&c- &7Sell claimed land with Real Estate sign, First line [re] second line as price.
+
+&2&nSpending Money&7
+
+&c- &7 Buy Sun/Storm/Day/Night/Repair Items at &9/warp cove&7.
+&c- &7 Create deals &9/pay&7 players.
+&c- &7 Buy kits & Resources via server & Player shops &9/warps&7.
+&c- &7 Buy claim blocks with &9/BuyClaim&r
+&c- &7 Place bounty on a player &9/bounty place&r
+&c- &7 Enter the lottery &9/lottery buy 1&r
+&c- &7 (£15) Buy Quick warps &9/warp north/east/south/west&7.
+#gates
+&2&nWorking Portcullis Gates&7
+&7Everyone can create unlimited working portcullis gates of any size, check out working demo's at &9/warp gates&7.
+&c- &7To build, create a gate (wood, iron or nether brick fence), at least two wide and two high.
+&c- &7Contain the portcullis with a wall.
+&c- &7Power the portcullis by powering one of the blocks adjacent to it on either side.
+&c- &7Important: Make sure an elevated portcullis is still in contact with a powered adjacent block, otherwise it won’t be able to be sent back down! 
+&d &nhttps://piratemc.com/guides/portcullis/&7
+#bridges
+&2&nBuild Working Bridges&7
+&7Everyone can create unlimited working bridges of any size, check out working demo's at &9/warp gates&7.
+&c- &7Build a bridge from slabs/half-blocks or double slabs at least two blocks wide and three blocks long.
+&c- &7Make sure there is at least one block adjacent to the bridge on three sides, so that it can't move in that direction. 
+&c- &7For the direction in which you want it to move, make sure there is a block to stop at the distance you want it to move to. 
+&c- &7Power one of the blocks underneath the bridge with redstone. Please note: you are powering a block underneath the bridge, not the bridge itself! Note that for the purposes of this plugin, just running redstone wire underneath a block will power it. 
+&c- &7Power more than one block to make the bridge move faster, Two blocks doubles the speed & three blocks doubles it once more (so four times as fast as one block). 
+&c- &7Make sure that when the bridge is fully extended it is still in contact with redstone power underneath. It can be the same blocks, or different ones. 
+&c- &7When the blocks receive redstone power, the bridge will move to the south or east (in other words, increasing x or z coordinates; depending on which direction is free), when they lose redstone power, it will move to the north or west (in other words, decreasing x or z coordinates). 
+&c- &7For working examples visit &9/warp bridges&r And Visit out website for detailed information and video tutorial. 
+&d &nhttps://piratemc.com/guides/retractable-bridges/&7
+#brewing
+&2&nBrewing Booze!&7
+&7Everyone can brew booze to drink or sell! Yohoho!
+&7Check out a detailed tutorial on our webiste:
+&d &nhttps://piratemc.com/guides/brewery/&7
+
+&7Recipes are kept secret, so start expermenting!
+#Colors
+Minecraft colors:
+&0 &&0  &1 &&1  &2 &&2  &3 &&3
+&4 &&4  &5 &&5  &6 &&6  &7 &&7
+&8 &&8  &9 &&9  &a &&a  &b &&b
+&c &&c  &d &&d  &e &&e  &f &&f
+&0 
+&&k &kMagic&r   &&l &lBold
+&&m &mStrike&r  &&n &nUline
+&&o &oItalic&r   &&r &rReset

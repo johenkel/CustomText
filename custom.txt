@@ -1,0 +1,715 @@
+#howtoplay,play,piratecraft 
+&6-- PirateCraft Getting Started -- &r
+&e>&7 We are a PvP survival server, that's Pirate themed.
+&e>&7 You can claim your land to protect it &9/claims&7.
+&e>&7 We have working &9/ships&7, &9/cannons&7, &9/gates&7, &9/bridges&7 and custom &9/brewing&7.
+&e>&7 Check your &9/rank&7 requirements, List all & &9/ranks&7. 
+&e>&7 Learn how to make money with &9/coinage&7, check your &9/bal&7.
+&e>&7 Information can be found at &9/info&7 && Your &9/kit bible&r. 
+&7 Please read the getting started guide!
+&d https://piratemc.com/guides/getting-started/   
+#vote
+&6-- Vote for PirateCraft [Page 1/3] -- &r
+&7Vote on &e&l3&7 for a &eVote key&7. Theres 3 pages, use &9/vote 2
+&7Open all 9 at once on&d https://piratemc.com/information/vote/
+1) &7PlanetMinecraft&d http://bit.ly/PiratePMC
+2) &7Mineservers&d http://bit.ly/piratecraftmc
+3) &7minecraft-server.net&d http://bit.ly/PirateMSL
+4) &7Minecraft Servers.org&d http://bit.ly/piratecraftms
+5) &7Minecraft-server-list&d http://bit.ly/piratecraftmsl
+6) &7TopG&d http://bit.ly/piratecrafttopg
+&6-- Vote for PirateCraft [Page 2/3] -- &r
+7) &7minecraftservers.biz&d http://bit.ly/PirateMSbiz
+8) &7Minecraft-mp&d http://bit.ly/pc-mc-mp
+9) &7MC-Index&d http://bit.ly/PirateMCI
+&6/vr ? For Vote stats & Milestones
+&9/vr stats &7Your Vote Stats
+&9/vr milestones &7View milestones
+&9/vr top10 total &7Top 10 Voters all time!
+&9/vr top10 votestreak &7Top 10 vote streaks!
+&6-- Vote for PirateCraft [Page 3/3] -- &r
+&9/vr lastvote &7See when you voted last
+&9/vr claim &7Claim your rewards & Milestones
+&9/vr claim rewards [#/All] &7Claim your rewards
+&9/vr claim milestones [#/All] &7Claim your milestones
+
+#staff,onlinestaff
+&e-- &6Online Staff [Page &c1&6/&c2&6] &e-- &r 
+&e-- &6Admins & &9Moderation&6 Staff --&r
+{PLAYERLIST:Admiral} {PLAYERLIST:ViceAdmiral} {PLAYERLIST:RearAdmiral} {PLAYERLIST:Commodore}
+ 
+&e-- &6Online &3Helpers&e -- &r
+{PLAYERLIST:Privateer} 
+
+&e-- &6Online &bBuild Leaders&r &6& &3Builders&e --&r
+{PLAYERLIST:housewright} {PLAYERLIST:craftsman}
+&e-- &6PirateCraft Team [Page &c2&6/&c2&6] &e-- &r 
+&9/GodsDead&7, &9/Maximus_Terragon&r, &9/Markusi13&7, &9/Smokeyriver&7, &9/Vapecloudbear&7, &9/MrBluBeardedYeti&7, &9/mountainrasta&7, &9/Lawzoneon&7, &9/lazydog11&7, &9/_freke_&7, &9/emielreijs&7, &9/pythonace&7, &9/creeprr&r
+
+&e-- &6Retired & Inactive Staff&e -- &r
+&9/SuperGL&7, &9/Iamthereaper89&7, &9/CallieMav&7, &9/KellyYore&7, &9/Chailey&7, &9/Ma_c_hi&7, &9/Arinthros&7, &9/skymanjay&7, &9/Asterity&7, &9/dagersh&7 &9/Saltpigeon&7, &9/CrazyPirate1&7, &9/PaulOnFire&7, &9/javainvader&7, &9/The_Network&7
+
+&dwww.piratemc.com/information/team/ &f
+&9/donate&7 To buy a staff head and reward them!
+&9/request&7 To apply for staff postision.
+#craftsman
+&e-- &6Craftsman&e -- &r
+&7Craftsman is the build rank, This gives build on Server projects, Such as the &9/cove&7, &9/spawn&7 and &9/warps&7.
+&7To apply for Craftsman use &9/apply&7.
+
+&e-- &6Online Craftsman&e -- &r
+{PLAYERLIST:craftsman}
+#more
+&6To add a custom command you need to do three things:
+&e-&9 Add a section below in the custom.txt
+&e-&9 Add a line to the commands.yml aliases section
+&e-&9 Give players access to 'essentials.customtext'
+
+
+
+
+
+#towns
+&6-- Settlements & Towns -- &r
+&7To apply for Town status and Icon on the &9/map&7.
+* &dhttp://bit.ly/mctowns &7 - Apply Online
+
+
+
+
+
+
+#cove
+&6-- The Cove -- &r
+&7The Pirates Cove! &9/warp cove&7. Includes:
+* &dShip Shop&7 - Buy a ship kit
+* &dCannons Shop&7 - Buy a cannon kit
+* &dPotions Bar&7 - Come for a drink
+* &dLumber Yard&7 - Sell Wood for $$$
+* &dDog's Shop&7 - Coughing_Dog's Shop
+* &dDeed Office&7 - Buy Day/Night/Weather/Warps
+#ships
+
+&6-- Ship Types [Page 1/13] -- &r 
+&7Once you have the associated &9/rank&7, use the ship name on a sign to operate a ship. See &ahttp://bit.ly/1Oso6fx&7 for info.
+ 2) &dDhow&7 - Everyone                   &f3) &dSchooner&7 - Sailor
+ 4) &dBarge&7 - Sailor                    &f5) &dBrig&7 - Carpenter
+ 6) &dFrigate&7 - Gunner                 &f7) &dGalleon&7 - Boatswain
+ 8) &dManowar&7 - Donator              &f9)&d Indiaman&7-Captain
+10) &dBarracuda&7 - Sailor            &f11) &dSeawolf&7 - Sailor
+12) &dWoodTurret/Crane&7 -Sailor&f13) &dStoneTurret/Crane&7-Sailor&r             
+&6-- [Page 2/13] Dhow - Available from Deckhand-- &r
+&7MinSize: &d25 Blocks&r
+&7MaxSize: &d150Blocks&r
+&7CruiseSpeed: &d0.5&r
+&7SinkPercent: &d5%&r
+&7RequiredToSail: &d15% wool, 25% wood&r
+&7ChestBlockAllowance &d4%
+&aA small starting ship to test the waters, it may be small but its snappy,You can’t use stone blocks on Dhows .&r
+
+&6-- [Page 3/13] Schooner - Available from Sailor -- &r
+&7MinSize: &d150 Blocks&r
+&7MaxSize: &d500 Blocks&r
+&7CruiseSpeed: &d0.5&r
+&7SinkPercent: &d20%&r
+&7RequiredToSail: &d15% wool, 25% wood&r
+&7ChestBlockAllowance &d4%
+&aA larger, sturdier ship than the Dhow, Typically built with the foremast smaller than the mainmast.&r
+
+&6-- [Page 4/13] Barge - Available from Sailor -- &r
+&7MinSize: &d200 Blocks&r
+&7MaxSize: &d600 Blocks&r
+&7CruiseSpeed: &d0.5&r
+&7FuelBurnRate: &d0.1 Coal per block moved&r
+&7SinkPercent: &d20%&r
+&7RequiredToManeuvre: &dCoal + Furnace&r
+&7ChestBlockAllowance &d4%
+&aA long flat-bottomed boat for carrying freight on canals and rivers, Powered by an engine (Furnace).
+
+&6-- [Page 5/13] Brig - Available from Carpenter -- &r
+&7MinSize: &d500 Blocks&r
+&7MaxSize: &d750 Blocks&r
+&7CruiseSpeed: &d0.5&r
+&7SinkPercent: &d40%&r
+&7RequiredToSail: &d15% wool, 25% wood&r
+&7ChestBlockAllowance &d4%
+&a Traditionally a two-masted square-rigged ship, with an additional lower fore-and-aft sail on the gaff and a boom to the mainmast.
+
+&6-- [Page 6/13] Frigate - Available from Gunner -- &r
+&7MinSize: &d750 Blocks&r
+&7MaxSize: &d1250 Blocks&r
+&7CruiseSpeed: &d0.4&r
+&7SinkPercent: &d50%&r
+&7RequiredToSail: &d15% wool, 25% wood&r
+&7ChestBlockAllowance &d4%
+&aA warship with a mixed armament, generally lighter than a galleon and of a kind originally introduced for convoy escort work.
+
+&6-- [Page 7/13] Galleon - Available From Boatswain -- &r
+&7MinSize: &d1250 Blocks&r
+&7MaxSize: &d1650 Blocks&r
+&7CruiseSpeed: &d0.3&r
+&7SinkPercent: &d60%&r
+&7RequiredToSail: &d15% wool, 25% wood&r
+&7ChestBlockAllowance &d4%
+&a Galleons were typically square-rigged and had three or more decks and masts. Originally Warships, and later used for trade.
+&6-- [Page 8/13] Manowar - Available From Lieutenant -- &r
+&7MinSize: &d1650 Blocks&r
+&7MaxSize: &d2500 Blocks&r
+&7CruiseSpeed: &d0.3&r
+&7SinkPercent: &d70%&r
+&7Required: &d15% wool, 25% wood&r
+&7ChestBlockAllowance &d4%
+&a A Heavily armed sailing ship, often functioning as flagships for fleets due to their firepower and durability.
+
+&6-- [Page 9/13] Indiaman- Available From Lieutenant -- &r
+&7MinSize: &d2500 Blocks&r
+&7MaxSize: &d5000 Blocks&r
+&7CruiseSpeed: &d0.4&r
+&7SinkPercent: &d60%&r
+&7Required: &d15% wool, 25% wood&r
+&7ChestBlockAllowance &d4%
+&a A Very large Trade ship capable of housing vast armamants to ensure reaching its long haul destinations safely.
+
+&6-- [Page 10/13] Barracuda(Sub) - Available From Sailor -- &r
+&7MinSize: &d200 Blocks&r
+&7MaxSize: &d600 Blocks&r
+&7CruiseSpeed: &d0.3&r
+&7FuelBurnRate: &d0.1 Coal per block moved&r
+&7SinkPercent: &d10%&r
+&7RequiredtoManeuvre: &d50%wool/clay/glass/Quartz/SBrick 5%IronBlock&r
+&7ChestBlockAllowance &d4%&r
+&a The submarine is designed to change depths.&r
+&6-- [Page 11/13] Seawolf(Sub) - Available From Sailor -- &r
+&7MinSize: &d600 Blocks&r
+&7MaxSize: &d1000 Blocks&r
+&7CruiseSpeed: &d0.3&r
+&7FuelBurnRate: &d0.1 Coal per block moved&r
+&7SinkPercent: &d10%&r
+&7RequiredtoManeuvre: &d50%wool/clay/glass/Quartz/SBrick 5%IronBlock&r
+&7ChestBlockAllowance &d4%&r
+&aA warship designed to operate completely submerged.
+
+&6-- [Page 12/13] WoodTurret/Crane - Available From Sailor -- &r
+&7MinSize: &d20 Blocks&r
+&7MaxSize: &d350 Blocks&r
+&7RotationSpeed: &d5.0&r
+&7RequiredtoManeuvre: &d50%of wooden blocks. 1% IronBlock&r
+&7ChestBlockAllowance &d1.5%&r
+&aThe only motion these subcrafts have is to rotate. These are designed to be used as subcrafts on existing crafts for Rotating cannon turrets, or rotating cranes on ships
+
+
+&6-- [Page 13/13]StoneTurret/Crane - Available From Sailor -- &r
+&7MinSize: &d20 Blocks&r
+&7MaxSize: &d350 Blocks&r
+&7RotationSpeed: &d5.0&r
+&7RequiredtoManeuvre: &d50%of Stone blocks. 1% IronBlock&r
+&7ChestBlockAllowance &d1.5%&r
+&aThe only motion these subcrafts have is to rotate. These are designed to be used as subcrafts on existing crafts for Rotating cannon turrets, or rotating cranes on ships
+
+#botm
+&6-- Build Of The Month -- &r
+&7Enter any building or ship to 
+&7PirateCrafts build of the month
+&7On the competition forums:
+&d&nhttp://bit.ly/pcbotm &r
+ * &7No build Submitted twice
+ * &7One entry per person/group
+ * &7Dates apply
+ * &7Has to be claimed
+#games
+&6-- Server Games -- &r
+&7This is our survival server all Pirate Minecraft mini-games are being built on our games server.
+#shop
+&6-- How to create a shop [Page 1/2] --&r
+1) &7Place an empty chest in a secure room
+2) &7Put the item(s) to buy or sell in the chest with the quantity for each sale
+3) &7Punch the chest with redstone
+4) &7Place a sign up to 20 blocks away with &9[Buy]&7 or &9[Sell]&7 on the first line, the description of your choice on the 2nd and 3rd lines and the price on the 4th line.
+5) &7Punch the sign with redstone
+6) &7Fill your chest with your stock of items and enjoy!
+&7More details, Video tutorial, Extra signs, Limits and XP Storage can be found on our website
+&7at &d&nhttp://bit.ly/signshopxp &r
+&6-- How to create a shop [Page 2/2] --&r
+&7You'll get notified each time someone buy/sell from your sign.
+&7You can use multiple chests per sign or multiple signs per chest.
+&7There is a player market to rent and buy shop plots at &9/warp shop
+#brewing
+&6-- PirateCraft Brewing [Page 1/2] --&r
+&7Yo-ho-ho PirateCraft has custom Grog brewing!
+&7We have &l&686&7 custom grogs to figure out! 
+&7Most have mutliple stages of being distilled in Barrels & boiling.
+&7Timing is key when brewing.
+&7Each Grog has its own custom effects when drinking!
+&7To learn how to brew check out &9/warp brewing
+&7For detailed information check out the website:
+&d&nhttp://piratemc.com/guides/brewery/
+&6-- PirateCraft Brewing [Page 2/2] --&r
+&7We have many un-found custom brews on PirateCraft
+&7as new Brews are being added regulary!
+&7There are prizes for finding out a brew!
+&7 Click this link to submit your finding!
+&d&nhttp://piratemc.com/topic/brewing-discoveries/
+#godsdead
+&c&l GodsDead
+&7 PirateCraft Founder and Lead Admin since Sep 2012.
+&7 
+&7&o "Life is 10% what happens to you and 90% how you react to it."
+&7 
+&d &nhttp://piratemc.com/members/godsdead/
+&7 
+&7 Must Watch:
+&d &nhttps://www.youtube.com/watch?v=b8HO6hba9ZE
+#supergl
+&6&l SuperGL
+&7 Retired PirateCraft Co-Founder ~ No longer active. Sep 2012.
+&7 
+&d &nhttp://piratemc.com/members/supergl/
+&7 
+#iamthereaper89
+&d&l Iamthereaper89
+&7 Retired ViceAdmiral (Super Admin) since April 2013
+&7 
+&d &nhttp://piratemc.com/members/iamthereaper89/
+&7 
+#markusi13
+&6&l Markusi13
+&7 RearAdmiral (Admin) since Feburary 2014
+&7 
+&7&o "No risk no fun"
+&7 
+&d &nhttp://piratemc.com/members/markusi13/
+&7 
+#skymanjay
+&6&l Skymanjay
+&7 Retired Commodore (Moderator) ~ No longer active. 2014
+&7 
+&d &nhttp://piratemc.com/members/skymanjay/
+&7 
+#calliemav
+&6&l Calliemav
+&7 RearAdmiral (Admin) since January 2015
+&7 
+&7&o "The one constant in the universe is change
+&7&o Chaos >= universe"
+&7 
+&d http://piratemc.com/members/calliemav/
+&7 
+#ma_c_hi
+&6&l Ma_c_hi
+&7 Retired RearAdmiral (Admin) ~ No longer active. Jan 2015
+&7 
+&d &nhttp://piratemc.com/members/machi/
+&7 
+#smokeyriver
+&6&l Smokeyriver
+&7 RearAdmiral (Admin) since June 2015
+&7 
+&7&o "I solemnly swear I am up to no good"
+&7 
+&d &nhttp://piratemc.com/members/smokeyriver/
+&7 
+#vapecloudbear
+&6&l Vapecloudbear
+&7 RearAdmiral (Admin) since June 2015
+&7 
+&7&o "Do your best and forget the rest"
+&7 
+&d &nhttp://piratemc.com/members/vapecloudbear/
+&7 
+#chailey
+&b&l Chailey
+&7 Commodore (Moderator)
+&7 
+&7&o "Only trust the untrustworthy."
+&7&o http://i.imgur.com/ML9Io.jpg
+&7 
+&d &nhttp://piratemc.com/members/Chailey/
+&7 
+#arinthros
+&b&l Arinthros
+&7 Retired Media Team - Photographer ~ No longer active.
+&7 
+&d &nhttp://piratemc.com/members/arinthros/
+&7 
+#lucky_vincentius
+&9&l Lucky_vincentius
+&7 Commodore (Moderator) since Dec 2015
+&7 
+&d &nhttp://piratemc.com/members/lucky/
+&7 
+#KellyYore
+&9&l KellyYore
+&7 Commodore (Moderator) since March 2016ALrig
+&7 
+&d &nhttp://piratemc.com/members/kellyyore/
+&7 
+#Asterity
+&9&l Asterity
+&7 Commodore (Moderator) since May 2016
+&7 
+&d &nhttp://piratemc.com/members/Asterity/
+&7 
+#dagersh
+&9&l dagersh
+&7 Commodore (Moderator) since May 2016
+&7 
+&d &nhttp://piratemc.com/members/dagersh/
+&7 
+#mountainrasta
+&6&l mountainrasta
+&7 Commodore (Moderator) since May 2016
+&7 
+&d &nhttp://piratemc.com/members/mountainrasta/
+&7 
+#creeprr
+&b&l creeprr
+&7 ShipWright (Developer) since Aug 2016
+&7
+&7&o "Nothing is better than infinite happiness, a pizza is better than nothing, therefore a pizza is better than infinite happiness"
+&7 
+&d &nhttps://piratemc.com/members/Creepermorderen/
+&7 
+#Lawzoneon
+&6&l Lawzoneon
+&7 RearAdmiral (Admin). Crew member since Aug 2016
+&7 
+&7&o "The weak don't get to choose how they die."
+&7
+&d &nhttp://piratemc.com/members/Lawzoneon/
+&7 
+#paulonfire
+&b&l PaulOnFire
+&7 Build Team Leader & Skin Maker
+&7 
+&d &nhttp://piratemc.com/members/PaulOnFire/
+&7 
+#mcshovel
+&6&l MCShovel
+&7 RearAdmiral (Admin) since Jan 2016
+&7 
+&7&o https://www.youtube.com/watch?v=SvKY8FJY0Qk
+&7 
+&d &nhttp://piratemc.com/members/mcshovel/
+&7 
+#mrblubeardedyeti
+&6&l MrBluBeardedYeti
+&7 Commodore (Moderator) since Nov 2016
+&7 
+&d &nhttps://piratemc.com/members/MrClusterFluxin/
+&7 
+#saltpigeon 
+&6&l Saltpigeon 
+&7 Media since Nov 2016
+&7 
+&d &nhttps://piratemc.com/members/Saltpigeon/
+&7 
+#crazypirate1 
+&6&l CrazyPirate1 
+&7 Website Mod since Nov 2016
+&7 
+&d &nhttps://piratemc.com/members/CrazyPirate1/
+&7 
+#sell
+&e---- &6[ Selling Items ]&e ----
+&7 You can sell Oak loads and at &9/warp cove
+&7 There are player shops at &9/warp shop&7 to sell to!
+&7 There are also player shops around the world you can sell all items in.
+&e---------------------------
+#map
+&e------- &6[ LIVE MAP ] &e-------
+&d &nhttp://piratemc.com/map/
+&e--------------------------
+#wiki
+&e------- &6[ WIKI ] &e-------
+&d &nhttp://wiki.piratemc.com
+&e--------------------------
+#textures
+&e------------ &6[ RESOURCE PACKS ] &e------------
+&d &nhttp://piratemc.com/information/skins-textures/
+&e------------------------------------------
+#request
+&6-- REQUESTS [Page 1/1] -- &r
+&7Request an admin for a task.
+&7 All Request master threads&5 http://bit.ly/masterthread
+&c*&7 &7Claim Removals&5 http://bit.ly/claimremoval
+&c*&7 &7Regeneration Request&5 http://bit.ly/regenland
+&c*&7 &7Ask the owner a question&5 http://bit.ly/askgodsdead
+&c*&7 &7Staff Application&5 http://bit.ly/pcstaff
+&c*&7 &7Builder Application&5 n/a
+#report
+&6-- Report a Pirate -- &r
+&7Report a pirate for breaking the &9/rules
+* &dhttps://piratemc.com/forums/server-support/player-reports/
+&7
+&7Or you can message a &9/staff&7 member direct in-game or best case on &9/discord
+#crews
+&6-- Crews -- &r
+&7Create a pirate crew to work with others! &9/crew&7
+&7TAG: unique identifier for you crew
+&7Name: Full name of your crew
+&7Cost: £10
+&7Create: &9/crew create TAG Full Name Of Crew
+&7Check out a detailed tutorial on our webiste:
+&d&nhttp://piratemc.com/guides/crews/&7
+#discord
+&6-- PirateCraft Discord Server -- &r
+&7Discord is a free voice & text chat designed specifically for gaming
+&7Its a combination/modern version of &9/Teamspeak&6 and &9/Skype. 
+&7PirateCraft game chat is also relayed live to our discord!
+&7You can join the official PirateCraft discord server at
+* &dhttp://discord.piratemc.com 
+&7For more detailed information visit.
+* &dhttp://piratemc.com/information/discord/
+#teamspeak
+&6-- PirateCraft Teamspeak Server -- &r
+&7Teamspeak is the standard voice chat platform for gaming.
+&7You will need the teamspeak client before you can conenct 
+&7to PirateCraft Teamspeak server. You can download the client from
+1) &dhttp://www.teamspeak.com/downloads
+&7Once you have the client, connect via the IP:
+2) &dts.piratemc.com 
+&7For more detailed information visit.
+* &dhttp://piratemc.com/information/teamspeak/
+#skype
+&6-- PirateCraft Skype Group -- &r
+&7We also have an Official Skype group to chat!
+&7You will need Skype before you can chat in this, download from:
+1) &dhttps://www.skype.com/
+&7Once you have the client, Click this url:
+2) &dhttps://join.skype.com/lDqBnOIOn7ha
+#sorting
+&6-- Item sorting and depositing -- &r
+* &dhttp://piratemc.com/guides/automatic-item-sorting/
+#changelog,updates
+&6-- PirateCraft changes and Updates -- &r
+* &dhttp://piratemc.com/forums/piratecraft-server-development/
+#xpboost
+&7 
+&6-- XPBoost Tokens -- &r
+&7XPBoosts are global XP boosts for everyone online at the time they are activated.
+&7They are activated via tokens redeemed at &9/warp xpboost&9
+&7At present there are only 3 ways you can obtain XPBoost tokens
+1) &9/donate&7 For a token.
+2) &9/donate&7 For a donator rank, one is gifted!
+3) &7Barter/Buy them from other players in-game!
+&7 
+#forums
+&e-- &6Stickied Forum Threads [Page 1/3] &e-- &r
+&c»&7 Master Thread list &5http://bit.ly/spmtl
+&c»&7 Not able to /rankup? &5http://bit.ly/pclostrank
+&c»&7 Wrong Rank? &5http://bit.ly/pclostrank
+&c»&7 Lost playtime? &5http://bit.ly/pcplaytime
+&c»&7 Game Server chat &5http://bit.ly/pcgameschat
+&c»&7 Post your screenshots &5http://bit.ly/pcscreenshots
+&c»&7 Spawn Sign idea? &5http://bit.ly/pcspawnsign
+&c»&7 Server roads &5http://bit.ly/pcserverraods
+&e-- &6Stickied Forum Threads [Page 2/3] &e-- &r
+&c»&7 Spawn Builders &5http://bit.ly/pcspawnbuild
+&c»&7 Cove Builders &5http://bit.ly/pccovebuild
+&c»&7 Cove Library &5http://bit.ly/pccovelibrary
+&c»&7 /warp north building &5http://bit.ly/pcwarpnorth
+&c»&7 /warp east building &5http://bit.ly/pcwarpeast
+&c»&7 /warp south building &5http://bit.ly/pcwarpsouth
+&c»&7 /warp west building &5http://bit.ly/pcwarpwest
+&c»&7 Report a player &5http://bit.ly/pcreportp
+&e-- &6Stickied Forum Threads [Page 3/3] &e-- &r
+&c»&7 Apply for media screenshots &5http://bit.ly/2rVe80M
+&c»&7 Apply for media writing &5http://bit.ly/2r1UdPD
+&c»&7 Donator Statue Request &5http://bit.ly/2r1KAAF
+&c»&7 Add an icon to the map &5http://bit.ly/2rEhdVq
+&c»&7 Donator Testimonials &5http://bit.ly/2rVerZu
+&c»&7 Player Projects &5http://bit.ly/2qTYa8t
+&c»&7 Digital artists needed &5http://bit.ly/2qksMgD
+&c»&7 Ask the owner a question &5http://bit.ly/2r1SKsK
+#chat
+&e-- &6Chat Shortcuts [Page 1/6] &e-- &r
+&a;) &c»&7 ㋡
+&a;-) &c»&7 ㋡
+&a:star: &c»&7 ★
+&a<3 &c»&7 ❤
+&a:shrug: &c»&7 ¯\\_(ツ)_/¯
+&a:flip: &c»&7 (╯°□°）╯︵ ┻━┻
+&a:wtf: &c»&7 ⚆_⚆
+&a:derp: &c»&7 (◑‿◐)
+&e-- &6Chat Shortcuts [Page 2/6] &e-- &r
+&a:love: &c»&7 (✿ ♥‿♥)
+&a:that: &c»&7 (σ`・∀・)σ
+&a:sad: &c»&7 (ಥ﹏ಥ)
+&a:finger: &c»&7 ╭∩╮ ( •_• ) ╭∩╮
+&a:cysteen: &c»&7 t(°-°t)
+&a:w: &c»&7 Welcome to PirateCraft
+&a:rip: &c»&7 rest in spaghetti never forgetti
+&a:peace: &c»&7 ✌(-‿-)✌
+&e-- &6Chat Shortcuts [Page 3/6] &e-- &r
+&a:face: &c»&7  (ᵔᴥᵔ)
+&a:dog: &c»&7 (◕ᴥ◕ʋ)
+&a:bat: &c»&7 /|\ ^._.^ /|\
+&a:gun: &c»&7 ︻╦╤─
+&a:butterfly: &c»&7 ƸӜƷ
+&a:tick: &c»&7 ✓
+&a:creep: &c»&7 ԅ(≖‿≖ԅ)
+&a:dead: &c»&7 x⸑x
+&e-- &6Chat Shortcuts [Page 4/6] &e-- &r
+&a:fu: &c»&7 ┌П┐(ಠ_ಠ)
+&a:haha: &c»&7 ٩(^‿^)۶
+&a:magicflip: &c»&7 (/¯◡ ‿ ◡)/¯ ~ ┻━┻
+&a:meep: &c»&7 \(°^°)/
+&a:meh: &c»&7 ಠ_ಠ
+&a:no: &c»&7 →_←
+&a:nyan: &c»&7 ~=[,,_,,]:3
+&a:omg: &c»&7 ◕_◕
+&e-- &6Chat Shortcuts [Page 5/6] &e-- &r
+&a:rainbowcat: &c»&7 (=^･ｪ･^=))ﾉ彡☆
+&a:shy: &c»&7 =^_^=
+&a:smirk: &c»&7 ¬‿¬
+&a:unflip: &c»&7 ┬──┬ ノ(ò_óノ)
+&a:up: &c»&7 ↑
+&a:whistle: &c»&7 (っ^з^)♪♬
+&a:wut: &c»&7 ⊙ω⊙
+&a:yay: &c»&7 \( ﾟヮﾟ)/
+&e-- &6Chat Shortcuts [Page 6/6] &e-- &r
+&a:cat: &c»&7 ฅ^•ﻌ•^ฅ
+#treasure
+&6-- Treasure Chests [Page 1/2] -- &r
+&7Thar be a special &6&lTreasure Chest&7 at &9/warp cove&7
+&7Look left as you arrive, its the enderchest on the boat.
+&7This is a loot-crate, that requires a key to open!
+&c» &eLeft click&7 Chest to view what you could win! (No key needed)
+&c» &eRight click&7 Chest with key to open and claim a random prize.
+
+&6-- How to get keys --> Use /treasure 2 &r
+
+&6-- How to get a keys -- &r
+&7Keys are dropped to a random online player every hour.
+
+&6-- Buy keys -- &r
+&7You can also &9/donate&7 To buy a pack of keys! Check &9motd&7 for deals!
+#painting
+You can switch paintings.
+#website
+&6-- Website [Page 1/2] -- &r
+&d &nhttp://piratemc.com/
+&7&l Detailed Guides:
+&d &nhttps://piratemc.com/guides/
+&7&l Live Map:
+&d &nhttps://piratemc.com/map/
+&7&l More Detailed Information:
+&d &nhttps://piratemc.com/information/
+&d 
+&6-- Website [Page 2/2] -- &r
+&7&l Store:
+&d &nhttps://piratemc.com/donate/
+&7&l Forums:
+&d &nhttps://piratemc.com/forums/
+&7&l Wiki:
+&d &nhttps://wiki.piratemc.com/
+&e--------------------------
+#video
+&e------- &6[ Videos ] &e-------
+&7&l Official and Pirate Videos:
+&d &nhttps://piratemc.com/videos/
+&e--------------------------
+#social
+&e------- &6[ Social Media ] &e-------
+&c»&7&d &nhttps://discord.piratemc.com &r- Discord
+&c»&7&d &nhttps://twitter.com/minecraftpirate &r- Twitter
+&c»&7&d &nhttps://www.facebook.com/pirateminecraft &r- Facebook
+&c»&7&d &nhttps://www.reddit.com/r/piratecraft/ &r- Reddit
+&c»&7&d &nhttps://www.instagram.com/piratecraft/ &r- Instagram
+&c»&7&d &nhttps://www.youtube.com/piratemc &r- YouTube
+&c»&7&d &nhttps://piratemc.com/forums/ &r- Forums
+&e--------------------------
+#commands
+&6-- Commands [Page 1/10] -- &r
+/vote
+/howtoplay
+/staff
+/info
+/ships
+/ship
+/shop
+/shops
+/siege
+/sell
+/map
+/wikilink
+/textures
+/welcome
+/botm
+/brewing
+/games
+/ranks
+/rankup
+/track
+/request
+/reportthread
+/forums
+/cove
+/towns
+/claims
+/faq
+/brb
+/bridges
+/gates
+/coinage
+/economy
+/a
+/crews
+/teamspeak
+/skype
+/sorting
+/changelog
+/updates
+/news
+/calc
+/painting
+/sc
+/subclaim
+/xpboost
+/gettingstarted
+/website
+/web
+/guides
+/ignore
+/craftsman
+/manwhois
+/chat
+/hub
+/events
+/test
+/bootywars
+/rewards
+/treasure
+/report
+/tuts
+/me
+/coin
+
+/godsdead
+/iamthereaper89
+/supergl
+/markusi13
+/skymanjay
+/calliemav
+/ma_c_hi
+/smokeyriver
+/vapecloudbear
+/chailey
+/arinthros
+/lucky_da_freak
+/kellyyore
+/asterity
+/dagersh
+/mountainrasta
+/lawzoneon
+/paulonfire
+/crazypirate1
+/mrblubeardedyeti
+/saltpigeon
+#crewscore
+&6&lHow are Crew scores created?
+
+&eYour score will increase as your crew gains more claims, money, members, allies, KDR, and becomes more active
+
+&9/crewscore
+
