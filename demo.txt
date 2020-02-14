@@ -1,0 +1,13 @@
+RAW Text Demo file
+<T>Text</T><H>Hover text</H><CC>cmi heal</CC><SC>Suggested text</SC>
+
+
+<T>Text</T> - Defines text which will be shown
+<H>Hover text</H> - represent text to be shown when hovering over text
+<C>cmi heal</C> - represents command to be performed when clicking text. Performed by player.
+<CC>cmi heal [playerName]</CC> - represents command (from console) to be performed when clicking text. Player can click this only once.
+<CCI>cmi heal [playerName]</CCI> - represents command (from console) to be performed when clicking text. Player can click this as many times as he wants.
+<SC>Suggested text</SC> - is replacement for command and it will paste text into chat field when clicked
+<URL>www.google.com</URL> - add url link
+To have more than one raw message in one line separate them with <Next>
+Raw message should always start with <T>
