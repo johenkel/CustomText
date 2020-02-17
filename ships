@@ -1,0 +1,140 @@
+<AutoPage>
+
+       &7&l&m----------&8&l&m----&7&l&m----------
+
+
+<T>&8[ &eShip Types &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/</URL>
+&eOnce you have the associated &6/rank&e, use the ship name on a sign to operate a ship. See &6<URL>http://bit.ly/1Oso6fx</URL>&e for info.
+ &e1. &7Dhow&6 - Everyone                   &e2. &7Schooner&6 - Sailor
+ &e3. &7Barge&6 - Sailor                    &e4. &7Brig&6 - Carpenter
+ &e5. &7Frigate&6 - Gunner                  &e6. &7Galleon&6 - Boatswain
+ &e7. &7Manowar&6 - Donator                 &e8.&7 Indiaman&6 - Captain
+&e9. &7Barracuda&6 - Sailor                 &e10. &7Seawolf&6 - Sailor
+&e11. &7WoodTurret/Crane&6 - Sailor         &e12. &7StoneTurret/Crane &6- Sailor             
+
+<NextPage>
+
+<T>&8[ &eDhow - Available from Deckhand &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/</URL>
+&eMinSize: &725 Blocks&r
+&eMaxSize: &7150Blocks&r
+&eCruiseSpeed: &70.5&r
+&eSinkPercent: &75%&r
+&eRequiredToSail: &715% wool, 25% wood&r
+&eChestBlockAllowance &74%
+&6A small starting ship to test the waters, it may be small but its snappy,You can’t use stone blocks on Dhows .&r
+
+<NextPage>
+
+&6-- [Page 3/13] Schooner - Available from Sailor -- &r
+&eMinSize: &d150 Blocks&r
+&eMaxSize: &d500 Blocks&r
+&eCruiseSpeed: &d0.5&r
+&eSinkPercent: &d20%&r
+&eRequiredToSail: &d15% wool, 25% wood&r
+&eChestBlockAllowance &d4%
+&6A larger, sturdier ship than the Dhow, Typically built with the foremast smaller than the mainmast.&r
+
+<NextPage>
+
+&6-- [Page 4/13] Barge - Available from Sailor -- &r
+&7MinSize: &d200 Blocks&r
+&7MaxSize: &d600 Blocks&r
+&7CruiseSpeed: &d0.5&r
+&7FuelBurnRate: &d0.1 Coal per block moved&r
+&7SinkPercent: &d20%&r
+&7RequiredToManeuvre: &dCoal + Furnace&r
+&7ChestBlockAllowance &d4%
+&aA long flat-bottomed boat for carrying freight on canals and rivers, Powered by an engine (Furnace).
+
+<NextPage>
+
+&6-- [Page 5/13] Brig - Available from Carpenter -- &r
+&7MinSize: &d500 Blocks&r
+&7MaxSize: &d750 Blocks&r
+&7CruiseSpeed: &d0.5&r
+&7SinkPercent: &d40%&r
+&7RequiredToSail: &d15% wool, 25% wood&r
+&7ChestBlockAllowance &d4%
+&a Traditionally a two-masted square-rigged ship, with an additional lower fore-and-aft sail on the gaff and a boom to the mainmast.
+
+<NextPage>
+
+&6-- [Page 6/13] Frigate - Available from Gunner -- &r
+&7MinSize: &d750 Blocks&r
+&7MaxSize: &d1250 Blocks&r
+&7CruiseSpeed: &d0.4&r
+&7SinkPercent: &d50%&r
+&7RequiredToSail: &d15% wool, 25% wood&r
+&7ChestBlockAllowance &d4%
+&aA warship with a mixed armament, generally lighter than a galleon and of a kind originally introduced for convoy escort work.
+
+<NextPage>
+
+&6-- [Page 7/13] Galleon - Available From Boatswain -- &r
+&7MinSize: &d1250 Blocks&r
+&7MaxSize: &d1650 Blocks&r
+&7CruiseSpeed: &d0.3&r
+&7SinkPercent: &d60%&r
+&7RequiredToSail: &d15% wool, 25% wood&r
+&7ChestBlockAllowance &d4%
+&a Galleons were typically square-rigged and had three or more decks and masts. Originally Warships, and later used for trade.
+&6-- [Page 8/13] Manowar - Available From Lieutenant -- &r
+&7MinSize: &d1650 Blocks&r
+&7MaxSize: &d2500 Blocks&r
+&7CruiseSpeed: &d0.3&r
+&7SinkPercent: &d70%&r
+&7Required: &d15% wool, 25% wood&r
+&7ChestBlockAllowance &d4%
+&a A Heavily armed sailing ship, often functioning as flagships for fleets due to their firepower and durability.
+
+<NextPage>
+
+&6-- [Page 9/13] Indiaman- Available From Lieutenant -- &r
+&7MinSize: &d2500 Blocks&r
+&7MaxSize: &d5000 Blocks&r
+&7CruiseSpeed: &d0.4&r
+&7SinkPercent: &d60%&r
+&7Required: &d15% wool, 25% wood&r
+&7ChestBlockAllowance &d4%
+&a A Very large Trade ship capable of housing vast armamants to ensure reaching its long haul destinations safely.
+
+<NextPage>
+
+&6-- [Page 10/13] Barracuda(Sub) - Available From Sailor -- &r
+&7MinSize: &d200 Blocks&r
+&7MaxSize: &d600 Blocks&r
+&7CruiseSpeed: &d0.3&r
+&7FuelBurnRate: &d0.1 Coal per block moved&r
+&7SinkPercent: &d10%&r
+&7RequiredtoManeuvre: &d50%wool/clay/glass/Quartz/SBrick 5%IronBlock&r
+&7ChestBlockAllowance &d4%&r
+&a The submarine is designed to change depths.&r
+&6-- [Page 11/13] Seawolf(Sub) - Available From Sailor -- &r
+&7MinSize: &d600 Blocks&r
+&7MaxSize: &d1000 Blocks&r
+&7CruiseSpeed: &d0.3&r
+&7FuelBurnRate: &d0.1 Coal per block moved&r
+&7SinkPercent: &d10%&r
+&7RequiredtoManeuvre: &d50%wool/clay/glass/Quartz/SBrick 5%IronBlock&r
+&7ChestBlockAllowance &d4%&r
+&aA warship designed to operate completely submerged.
+
+<NextPage>
+
+&6-- [Page 12/13] WoodTurret/Crane - Available From Sailor -- &r
+&7MinSize: &d20 Blocks&r
+&7MaxSize: &d350 Blocks&r
+&7RotationSpeed: &d5.0&r
+&7RequiredtoManeuvre: &d50%of wooden blocks. 1% IronBlock&r
+&7ChestBlockAllowance &d1.5%&r
+&aThe only motion these subcrafts have is to rotate. These are designed to be used as subcrafts on existing crafts for Rotating cannon turrets, or rotating cranes on ships
+
+<NextPage>
+
+&6-- [Page 13/13]StoneTurret/Crane - Available From Sailor -- &r
+&7MinSize: &d20 Blocks&r
+&7MaxSize: &d350 Blocks&r
+&7RotationSpeed: &d5.0&r
+&7RequiredtoManeuvre: &d50%of Stone blocks. 1% IronBlock&r
+&7ChestBlockAllowance &d1.5%&r
+&aThe only motion these subcrafts have is to rotate. These are designed to be used as subcrafts on existing crafts for Rotating cannon turrets, or rotating cranes on ships
