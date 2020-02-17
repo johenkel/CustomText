@@ -21,16 +21,16 @@
 &eSinkPercent: &75%&r
 &eRequiredToSail: &715% wool, 25% wood&r
 &eChestBlockAllowance &74%
-&6A small starting ship to test the waters, it may be small but its snappy,You can’t use stone blocks on Dhows .&r
+&6A small starting ship to test the waters, it may be small but its snappy, You can’t use stone blocks on Dhows .&r
 
 <NextPage>
 
-&6-- [Page 3/13] Schooner - Available from Sailor -- &r
-&eMinSize: &d150 Blocks&r
-&eMaxSize: &d500 Blocks&r
-&eCruiseSpeed: &d0.5&r
-&eSinkPercent: &d20%&r
-&eRequiredToSail: &d15% wool, 25% wood&r
+<T>&8[ &eSchooner - Available from Sailor &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/</URL>
+&eMinSize: &7150 Blocks&r
+&eMaxSize: &7500 Blocks&r
+&eCruiseSpeed: &70.5&r
+&eSinkPercent: &720%&r
+&eRequiredToSail: &715% wool, 25% wood&r
 &eChestBlockAllowance &d4%
 &6A larger, sturdier ship than the Dhow, Typically built with the foremast smaller than the mainmast.&r
 
