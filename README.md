@@ -2,4 +2,6 @@
  Custom Text for in-game information for PirateCraft
 
 
-TO-DO list
+# TO-DO list
+
+* Staff Bio Commands
