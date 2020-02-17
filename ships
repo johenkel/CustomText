@@ -2,10 +2,10 @@
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
-
 <T>&8[ &eShip Types &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/</URL>
 &eOnce you have the associated &6/rank&e, use the ship name on a sign to operate a ship. See &6<URL>http://bit.ly/1Oso6fx</URL>&e for info.
- &e2. &7Dhow&6 - Everyone                   &e3. &7Schooner&6 - Sailor
+ 
+&e2. &7Dhow&6 - Everyone                   &e3. &7Schooner&6 - Sailor
  &e4. &7Barge&6 - Sailor                    &e5. &7Brig&6 - Carpenter
  &e6. &7Frigate&6 - Gunner                  &e7. &7Galleon&6 - Boatswain
  &e8. &7Manowar&6 - Donator                 &e9. &7Indiaman&6 - Captain
@@ -14,133 +14,173 @@
 
 <NextPage>
 
+       &7&l&m----------&8&l&m----&7&l&m----------
+
 <T>&8[ &eDhow - Available from Deckhand &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/</URL>
+
 &eMinSize: &725 Blocks&r
 &eMaxSize: &7150Blocks&r
 &eCruiseSpeed: &70.5&r
 &eSinkPercent: &75%&r
 &eRequiredToSail: &715% wool, 25% wood&r
-&eChestBlockAllowance &74%
-&6A small starting ship to test the waters, it may be small but its snappy, You can’t use stone blocks on Dhows .&r
+&eChestBlockAllowance: &74%
+&6A small starting ship to test the waters, it may be small but its snappy, You can’t use stone blocks on Dhows.&r
 
 <NextPage>
 
+       &7&l&m----------&8&l&m----&7&l&m----------
+
 <T>&8[ &eSchooner - Available from Sailor &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/</URL>
+
 &eMinSize: &7150 Blocks&r
 &eMaxSize: &7500 Blocks&r
 &eCruiseSpeed: &70.5&r
 &eSinkPercent: &720%&r
 &eRequiredToSail: &715% wool, 25% wood&r
-&eChestBlockAllowance &d4%
+&eChestBlockAllowance: &d4%
 &6A larger, sturdier ship than the Dhow, Typically built with the foremast smaller than the mainmast.&r
 
 <NextPage>
 
+       &7&l&m----------&8&l&m----&7&l&m----------
+
 <T>&8[ &eBarge - Available from Sailor &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/</URL>
+
 &eMinSize: &7200 Blocks&r
 &eMaxSize: &7600 Blocks&r
 &eCruiseSpeed: &70.5&r
 &eFuelBurnRate: &70.1 Coal per block moved&r
 &eSinkPercent: &720%&r
 &eRequiredToManeuvre: &7Coal + Furnace&r
-&eChestBlockAllowance &74%
+&eChestBlockAllowance: &74%
 &6A long flat-bottomed boat for carrying freight on canals and rivers, Powered by an engine (Furnace).
 
 <NextPage>
 
+       &7&l&m----------&8&l&m----&7&l&m----------
+
 <T>&8[ &eBrig - Available from Carpenter &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/</URL>
+
 &eMinSize: &7500 Blocks&r
 &eMaxSize: &7750 Blocks&r
 &eCruiseSpeed: &70.5&r
 &eSinkPercent: &740%&r
 &eRequiredToSail: &715% wool, 25% wood&r
-&eChestBlockAllowance &74%
+&eChestBlockAllowance: &74%
 &6Traditionally a two-masted square-rigged ship, with an additional lower fore-and-aft sail on the gaff and a boom to the mainmast.
 
 <NextPage>
 
+       &7&l&m----------&8&l&m----&7&l&m----------
+
 <T>&8[ &eFrigate - Available from Gunner &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/</URL>
+
 &eMinSize: &7750 Blocks&r
 &eMaxSize: &71250 Blocks&r
 &eCruiseSpeed: &70.4&r
 &eSinkPercent: &750%&r
 &eRequiredToSail: &715% wool, 25% wood&r
-&eChestBlockAllowance &74%
+&eChestBlockAllowance: &74%
 &6A warship with a mixed armament, generally lighter than a galleon and of a kind originally introduced for convoy escort work.
 
 <NextPage>
 
+       &7&l&m----------&8&l&m----&7&l&m----------
+
 <T>&8[ &eGalleon - Available from Boatswain &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/</URL>
+
 &eMinSize: &71250 Blocks&r
 &eMaxSize: &71650 Blocks&r
 &eCruiseSpeed: &70.3&r
 &eSinkPercent: &760%&r
 &eRequiredToSail: &715% wool, 25% wood&r
-&eChestBlockAllowance &74%
+&eChestBlockAllowance: &74%
 &6Galleons were typically square-rigged and had three or more decks and masts. Originally Warships, and later used for trade.
 
 <NextPage>
 
+       &7&l&m----------&8&l&m----&7&l&m----------
+
 <T>&8[ &eManowar - Available from Lieutenant &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/</URL>
+
 &eMinSize: &71650 Blocks&r
 &eMaxSize: &72500 Blocks&r
 &eCruiseSpeed: &70.3&r
 &eSinkPercent: &770%&r
 &eRequired: &715% wool, 25% wood&r
-&eChestBlockAllowance &74%
+&eChestBlockAllowance: &74%
 &6A Heavily armed sailing ship, often functioning as flagships for fleets due to their firepower and durability.
 
 <NextPage>
 
+       &7&l&m----------&8&l&m----&7&l&m----------
+
 <T>&8[ &eIndiaman - Available from Lieutenant&8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/</URL>
+
 &eMinSize: &72500 Blocks&r
 &eMaxSize: &75000 Blocks&r
 &eCruiseSpeed: &70.4&r
 &eSinkPercent: &760%&r
 &eRequired: &715% wool, 25% wood&r
-&eChestBlockAllowance &74%
+&eChestBlockAllowance: &74%
 &6A Very large Trade ship capable of housing vast armamants to ensure reaching its long haul destinations safely.
 
 <NextPage>
 
+       &7&l&m----------&8&l&m----&7&l&m----------
+
 <T>&8[ &eBarracuda (Sub) - Available from Sailor &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/</URL>
+
 &eMinSize: &7200 Blocks&r
 &eMaxSize: &7600 Blocks&r
 &eCruiseSpeed: &70.3&r
 &eFuelBurnRate: &70.1 Coal per block moved&r
 &eSinkPercent: &710%&r
 &eRequiredtoManeuvre: &750%wool/clay/glass/Quartz/SBrick 5%IronBlock&r
-&eChestBlockAllowance &74%&r
+&eChestBlockAllowance: &74%&r
 &6The submarine is designed to change depths.&r
 
 <NextPage>
 
+       &7&l&m----------&8&l&m----&7&l&m----------
+
 <T>&8[ &eSeawolf (Sub) - Available from Sailor &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/</URL>
+
 &eMinSize: &7600 Blocks&r
 &eMaxSize: &71000 Blocks&r
 &eCruiseSpeed: &70.3&r
 &eFuelBurnRate: &70.1 Coal per block moved&r
 &eSinkPercent: &710%&r
 &eRequiredtoManeuvre: &750%wool/clay/glass/Quartz/SBrick 5%IronBlock&r
-&eChestBlockAllowance &74%&r
+&eChestBlockAllowance: &74%&r
 &6A warship designed to operate completely submerged.
 
 <NextPage>
 
+       &7&l&m----------&8&l&m----&7&l&m----------
+
 <T>&8[ &eWoodTurret/Crane - Available From Sailor &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/</URL>
+
 &eMinSize: &720 Blocks&r
 &eMaxSize: &7350 Blocks&r
 &eRotationSpeed: &75.0&r
 &eRequiredtoManeuvre: &750%of wooden blocks. 1% IronBlock&r
-&eChestBlockAllowance &71.5%&r
+&eChestBlockAllowance: &71.5%&r
 &6The only motion these subcrafts have is to rotate. These are designed to be used as subcrafts on existing crafts for Rotating cannon turrets, or rotating cranes on ships
 
 <NextPage>
 
+       &7&l&m----------&8&l&m----&7&l&m----------
+
 <T>&8[ &eStoneTurret/Crane - Available From Sailor &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/</URL>
+
 &eMinSize: &720 Blocks&r
 &eMaxSize: &7350 Blocks&r
 &eRotationSpeed: &75.0&r
 &eRequiredtoManeuvre: &750%of Stone blocks. 1% IronBlock&r
-&eChestBlockAllowance &71.5%&r
+&eChestBlockAllowance: &71.5%&r
 &6The only motion these subcrafts have is to rotate. These are designed to be used as subcrafts on existing crafts for Rotating cannon turrets, or rotating cranes on ships
+
+<T>&8  » [ &eView Detailed Ship Guide &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/</URL>
+<T>&8  » [ &eTeleport to the Port &8]</T><H>&aGo to the ships warp</H><C>warp ships</C>
+
