@@ -14,12 +14,12 @@
 
 <T>&8[ &eDonate &8]</T><H>&aGo to the in-depth Contributor Ranks page on our website</H><URL>https://piratemc.com/donate/</URL>
 
-&7Each rank has its own perks, all donator packages include:
+&7Each rank has its own perks, all contributor packages include:
 &e» &a Green Username&7 + Badge for Commander & Captain
 &e» &7 Join a full server.
-&e» &7 Discord Role
+&e» &6 /di/scord Role
 &e» &7 More set homes, 3, 4 & 5
-&e» &7Initial choice of spawn eggs/gifts
+&e» &7 Initial choice of spawn eggs/gifts
 &e» &7 Initial In-Game money gift
 &e» &7 &6/top&7 As Commander & &6/back&7 as Captain
 &e» &7 Bigger Ships
@@ -29,6 +29,7 @@
 &e» &7 Donator &6/kits&7 & all &6/warps&7
 &e» &7 Inherit all other ranks
 &e» &7 Chat & Sign colours & formatting
-&e» Full Contributor perks & prices avalible at:
+&e» &7Full Contributor perks & prices available at:
 &6&nhttps://piratemc.com/donate/ &7
 &7Visit &6/warp donate&7 for a visual representation.
+&f
