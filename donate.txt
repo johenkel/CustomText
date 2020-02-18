@@ -1,0 +1,34 @@
+<AutoPage>
+
+       &7&l&m----------&8&l&m----&7&l&m----------
+
+<T>&8[ &eDonate &8]</T><H>&aGo to the in-depth Contributor Ranks page on our website</H><URL>https://piratemc.com/donate/</URL>
+
+&7Buy Ranks, Claim Blocks & Rank-Upgrades &6/donate&7
+&7There are 3 &6/donate&7 ranks;
+&aLieutenant&f »&7, &aCommander&6 »&7 & &aCaptain &d»
+
+<NextPage>
+
+       &7&l&m----------&8&l&m----&7&l&m----------
+
+<T>&8[ &eDonate &8]</T><H>&aGo to the in-depth Contributor Ranks page on our website</H><URL>https://piratemc.com/donate/</URL>
+
+&7Each rank has its own perks, all donator packages include:
+&e» &a Green Username&7 + Badge for Commander & Captain
+&e» &7 Join a full server.
+&e» &7 Discord Role
+&e» &7 More set homes, 3, 4 & 5
+&e» &7Initial choice of spawn eggs/gifts
+&e» &7 Initial In-Game money gift
+&e» &7 &6/top&7 As Commander & &6/back&7 as Captain
+&e» &7 Bigger Ships
+&e» &7 More Cannons
+&e» &7 Create Map Icons
+&e» &7 &6/time /craft /near /tptoggle /hat&7 & More VIP commands
+&e» &7 Donator &6/kits&7 & all &6/warps&7
+&e» &7 Inherit all other ranks
+&e» &7 Chat & Sign colours & formatting
+&e» Full Contributor perks & prices avalible at:
+&6&nhttps://piratemc.com/donate/ &7
+&7Visit &6/warp donate&7 for a visual representation.
