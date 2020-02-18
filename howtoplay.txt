@@ -3,7 +3,7 @@
 <T>&8[ &ePirateCraft Getting Started &8]</T><H>&aGo to the in-depth getting started guide on our website</H><URL>https://piratemc.com/guides/getting-started/ </URL>
 
 &e»&7 We are a PvP survival server, that's Pirate themed.
-&e»&7 You can claim your land to protect it &9/claims&7.
+&e»&7 You can claim your land to protect it &6/claims&7.
 &e»&7 We have working &6/ships&7, &6/cannons&7, &6/gates&7, &6/bridges&7 and custom &6/brewing&7.
 &e»&7 Check your &9/rank&7 requirements, List all & &6/ranks&7. 
 &e»&7 Learn how to make money with &6/coinage&7, check your &6/bal&7.
