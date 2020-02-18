@@ -5,13 +5,13 @@
 <T>&8[ &eEarning Money &8]</T><H>Go to the economy page on our website</H><URL>https://piratemc.com/guides/economy/</URL>
 
 &e» &6/donate&7 Packages include in-game money, Go to Misc just for money.
-&e» &7Sell Claim Blocks with &6/SellClaim&7
+&e» &7Sell Claim Blocks with &6/SellClaim&7.
 &e» &7Selling Items at &6/warp shop&7.
 &e» &7Win cash prizes from at &6/vote&7 (3 Votes Required for a key).
 &e» &7Start a &6/shop&7 and sell items.
 &e» &7Win the &6/lottery&7, Drawn every 2 Hours.
-&e» &7Collect Bounties. Check &6/bounty list&r
-&e» &7Sell Logs at the &e&lLumberjack&6 in &6/warp cove&7.
+&e» &7Collect Bounties. Check &6/bounty list&7.
+&e» &7Sell Logs at the &e&lLumberjack&7 in &6/warp cove&7.
 
 <NextPage>
 
