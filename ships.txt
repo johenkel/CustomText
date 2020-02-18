@@ -10,7 +10,7 @@
 &e6. &7Frigate&6 - Gunner                  &e7. &7Galleon&6 - Boatswain
 &e8. &7Manowar&6 - Donator                 &e9. &7Indiaman&6 - Captain
 &e10. &7Barracuda&6 - Sailor               &e11. &7Seawolf&6 - Sailor
-&e12. &7WoodTurret/Crane&6 - Sailor        &e13. &7StoneTurret/Crane&6 - Sailor             
+&e12. &7WoodTurret/Crane&6 - Sailor    &e13. &7StoneTurret/Crane&6 - Sailor             
 
 <NextPage>
 
