@@ -13,9 +13,13 @@
 &6/crews&7 Creating a crew & Info
 &6/ranks&7 List All Ranks & Perks
 &6/rank&7 Check your rank progress
-&6/info donate&7 & &9/warp donate&7 Information
+&6/info donate&7 & &6/warp donate&7 Information
 
 <NextPage>
+
+       &7&l&m----------&8&l&m----&7&l&m----------
+
+<T>&8[ &ePirateCraft Info &8]</T><H>&aGo to the in-depth info page on our website</H><URL>https://piratemc.com/information/</URL>
 
 &6/donate&7 for Ranks, Claims and In-Game Money
 &6/coinage&7 Earn/Spend Money
