@@ -3,14 +3,14 @@
        &7&l&m----------&8&l&m----&7&l&m----------
 
 <T>&8[ &eShip Types &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/</URL>
-&eOnce you have the associated &6/rank&e, use the ship name on a sign to operate a ship. See &6<URL>http://bit.ly/1Oso6fx</URL>&e for info.
+&7Once you have the associated &6/rank&7, use the ship name on a sign to operate a ship. See &6&nhttp://bit.ly/1Oso6fx&7 for info.
  
 &e2. &7Dhow&6 - Everyone                   &e3. &7Schooner&6 - Sailor
- &e4. &7Barge&6 - Sailor                    &e5. &7Brig&6 - Carpenter
- &e6. &7Frigate&6 - Gunner                  &e7. &7Galleon&6 - Boatswain
- &e8. &7Manowar&6 - Donator                 &e9. &7Indiaman&6 - Captain
-&e10. &7Barracuda&6 - Sailor                 &e11. &7Seawolf&6 - Sailor
-&e12. &7WoodTurret/Crane&6 - Sailor         &e13. &7StoneTurret/Crane &6- Sailor             
+&e4. &7Barge&6 - Sailor                    &e5. &7Brig&6 - Carpenter
+&e6. &7Frigate&6 - Gunner                  &e7. &7Galleon&6 - Boatswain
+&e8. &7Manowar&6 - Donator                 &e9. &7Indiaman&6 - Captain
+&e10. &7Barracuda&6 - Sailor               &e11. &7Seawolf&6 - Sailor
+&e12. &7WoodTurret/Crane&6 - Sailor        &e13. &7StoneTurret/Crane&6 - Sailor             
 
 <NextPage>
 
