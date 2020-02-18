@@ -17,6 +17,8 @@
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
+<T>&8[ &eChat Shortcuts &8]</T><H>&aGo to the suggestions page on our website to submit more shortcuts!</H><URL>https://piratemc.com/forums/server-support/requests-suggestions/</URL>
+
 &e:love: &6»&7 (✿ ♥‿♥)
 &e:that: &6»&7 (σ`・∀・)σ
 &e:sad: &6»&7 (ಥ﹏ಥ)
@@ -29,6 +31,8 @@
 <NextPage>
 
        &7&l&m----------&8&l&m----&7&l&m----------
+
+<T>&8[ &eChat Shortcuts &8]</T><H>&aGo to the suggestions page on our website to submit more shortcuts!</H><URL>https://piratemc.com/forums/server-support/requests-suggestions/</URL>
 
 &e:face: &6»&7  (ᵔᴥᵔ)
 &e:dog: &6»&7 (◕ᴥ◕ʋ)
@@ -43,6 +47,8 @@
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
+<T>&8[ &eChat Shortcuts &8]</T><H>&aGo to the suggestions page on our website to submit more shortcuts!</H><URL>https://piratemc.com/forums/server-support/requests-suggestions/</URL>
+
 &e:fu: &6»&7 ┌П┐(ಠ_ಠ)
 &e:haha: &6»&7 ٩(^‿^)۶
 &e:magicflip: &6»&7 (/¯◡ ‿ ◡)/¯ ~ ┻━┻
@@ -56,6 +62,8 @@
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
+<T>&8[ &eChat Shortcuts &8]</T><H>&aGo to the suggestions page on our website to submit more shortcuts!</H><URL>https://piratemc.com/forums/server-support/requests-suggestions/</URL>
+
 &e:rainbowcat: &6»&7 (=^･ｪ･^=))ﾉ彡☆
 &e:shy: &6»&7 =^_^=
 &e:smirk: &6»&7 ¬‿¬
@@ -68,5 +76,7 @@
 <NextPage>
 
        &7&l&m----------&8&l&m----&7&l&m----------
+
+<T>&8[ &eChat Shortcuts &8]</T><H>&aGo to the suggestions page on our website to submit more shortcuts!</H><URL>https://piratemc.com/forums/server-support/requests-suggestions/</URL>
 
 &e:cat: &6»&7 ฅ^•ﻌ•^ฅ
