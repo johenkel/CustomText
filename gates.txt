@@ -1,0 +1,11 @@
+       &7&l&m----------&8&l&m----&7&l&m----------
+
+<T>&8[ &eWorking Portcullis Gates &8]</T><H>Go to the portcullis gates page on our website</H><URL>https://piratemc.com/guides/portcullis/</URL>
+
+&7Everyone can create unlimited working portcullis gates of any size, check out working demo's at &6/warp tutorials&7.
+&e» &7To build, create a gate (wood, iron or nether brick fence), at least two wide and two high.
+&e» &7Contain the portcullis with a wall.
+&e» &7Power the portcullis by powering one of the blocks adjacent to it on either side with redstone.
+&e» &7&lImportant: &7Make sure an elevated portcullis is still in contact with a powered adjacent block, otherwise it won’t be able to be sent back down! 
+
+<T>&8  » [ &ePortcullis Gates Page &8]</T>Go to the portcullis gates page on our website</H><URL>https://piratemc.com/guides/portcullis/</URL>
