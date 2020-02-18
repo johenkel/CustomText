@@ -9,7 +9,7 @@
 &7Most have mutliple stages of being distilled in Barrels & boiling.
 &7Timing is key when brewing.
 &7Each Grog has its own custom effects when drinking!
-&7To learn how to brew check out &9/warp brewing
+&7To learn how to brew check out &6/warp brewing
 &7For detailed information check out the website:
 &6&nhttp://piratemc.com/guides/brewery/
 
