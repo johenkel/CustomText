@@ -1,4 +1,6 @@
-       &7&l&m----------&8&l&m----&7&l&m----------
+<AutoPage>
+
+      &7&l&m----------&8&l&m----&7&l&m----------
 
 <T>&8[ &eBuild Working Bridges &8]</T><H>Go to the bridges page on our website</H><URL>https://piratemc.com/forums/server-support/player-reports/</URL>
 
@@ -7,8 +9,22 @@
 &e» &7Make sure there is at least one block adjacent to the bridge on three sides, so that it can't move in that direction. 
 &e» &7For the direction in which you want it to move, make sure there is a block to stop at the distance you want it to move to. 
 &e» &7Power one of the blocks underneath the bridge with redstone. Please note: you are powering a block underneath the bridge, not the bridge itself! Note that for the purposes of this plugin, just running redstone wire underneath a block will power it. 
+
+<NextPage>
+
+      &7&l&m----------&8&l&m----&7&l&m----------
+
+<T>&8[ &eBuild Working Bridges &8]</T><H>Go to the bridges page on our website</H><URL>https://piratemc.com/forums/server-support/player-reports/</URL>
+
 &e» &7Power more than one block to make the bridge move faster, Two blocks doubles the speed & three blocks doubles it once more (so four times as fast as one block). 
 &e» &7Make sure that when the bridge is fully extended it is still in contact with redstone power underneath. It can be the same blocks, or different ones. 
+
+<NextPage>
+
+      &7&l&m----------&8&l&m----&7&l&m----------
+
+<T>&8[ &eBuild Working Bridges &8]</T><H>Go to the bridges page on our website</H><URL>https://piratemc.com/forums/server-support/player-reports/</URL>
+
 &e» &7When the blocks receive redstone power, the bridge will move to the south or east (in other words, increasing x or z coordinates; depending on which direction is free), when they lose redstone power, it will move to the north or west (in other words, decreasing x or z coordinates). 
 &e» &7For working examples visit &6/warp tutorial&r And Visit out website for detailed information and video tutorial. 
 
