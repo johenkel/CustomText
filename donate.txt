@@ -17,7 +17,7 @@
 &7Each rank has its own perks, all contributor packages include:
 &e» &a Green Username&7 + Badge for Commander & Captain
 &e» &7 Join a full server.
-&e» &6 /di/scord Role
+&e» &6 /discord Role
 &e» &7 More set homes, 3, 4 & 5
 &e» &7 Initial choice of spawn eggs/gifts
 &e» &7 Initial In-Game money gift
