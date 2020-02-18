@@ -1,0 +1,43 @@
+<AutoPage>
+
+       &7&l&m----------&8&l&m----&7&l&m----------
+
+<T>&8[ &eRankable Ranks &8]</T><H>Go to the in-depth rank page on our website</H><URL>https://piratemc.com/guides/ranks/</URL>
+&7Use &6/rank&7 for promotion requirements.
+
+&7»&f Deckhand     &b»&7 Firstmate
+&3»&f Cadet      &l &l &l &4»&7 Quartermaster
+&9»&7 Sailor
+&6»&7 Carpenter
+&e»&7 Gunner
+&d»&7 Boatswain
+
+<NextPage>
+
+       &7&l&m----------&8&l&m----&7&l&m----------
+
+<T>&8[ &eContributor Ranks &8]</T><H>Go to the in-depth rank page on our website</H><URL>https://piratemc.com/guides/ranks/</URL>
+&6/donate&7 For these ranks.
+
+&7»&a Lieutenant&7  ⌂⌂⌂
+&6»&a Commander&7 ⌂⌂⌂⌂
+&d»&a Captain&7     ⌂⌂⌂⌂⌂
+
+&7Contributor ranks inherit all rankable ranks!
+&7All perks &6https://piratemc.com/donate/
+
+<NextPage>
+
+       &7&l&m----------&8&l&m----&7&l&m----------
+
+<T>&8[ &eStaff Ranks&8]</T><H>Go to the in-depth rank page on our website</H><URL>https://piratemc.com/guides/ranks/</URL>
+&7PirateCraft Team &6https://piratemc.com/information/team/ &7
+&7Use &6/staff&7 for online staff members.
+
+&7»&3 Privateer&7 Helper        &7»&3 SeaArtist&7 Media
+&7»&9 Commodore&7 Mod           &7»&f Craftsman&7 Builder
+&7»&6 RearAdmiral&7 Admin       &7»&b Housewright&7 Lead Builder
+&7»&c ViceAdmiral&7 Admin & OP
+&7»&c Admiral&7 Owner
+
+<T>&8  » [ &eFull Rank Information & Commands List&8]</T><H>&aGo to the in-depth rank page on our website</H><URL>https://piratemc.com/guides/ranks/</URL>
