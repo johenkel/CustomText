@@ -2,7 +2,7 @@
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &eSiege &8]</T><H>&aGo to the in-depth siege guide on our website</H><URL>https://piratemc.com/guides/claims/#siege</URL>
+<T>&8[ &eSiege Information&8]</T><H>&aGo to the in-depth siege guide on our website</H><URL>https://piratemc.com/guides/claims/#siege</URL>
 
 &7You can &6/siege&7 a claimed area when the owner or a trustee is inside the claim. 
 &7Siege lasts until someone wins.
@@ -10,8 +10,9 @@
 &7You will be able to break &lsoft blocks &7during a siege.
 &7You have 5 minutes to raid a base and then you will be evicted. 
 
-<T>&8[ &eCheck Page 2 for Soft Block List&8]</T><H>&aGo to the in-depth siege guide on our website</H><URL>https://piratemc.com/guides/claims/#siege</URL>
+<T>&8  » [ &eCheck Page 2 for Soft Block list&8]</T><H>&aGo to the in-depth siege guide on our website</H <URL>https://piratemc.com/guides/claims/#siege</URL>
 &7
+
 <NextPage>
 
        &7&l&m----------&8&l&m----&7&l&m----------
