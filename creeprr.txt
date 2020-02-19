@@ -4,7 +4,7 @@
 <T>&8[ &b&lShipwright &8]</T>
 
 &b&lcreeprr
-&7Shipwright since Aug 2016
+&7Shipwright since August 2016
 &7
 &7&o"Nothing is better than infinite happiness, a pizza is better than nothing, therefore a pizza is better than infinite happiness"
 &7 
