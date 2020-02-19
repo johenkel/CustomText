@@ -4,14 +4,14 @@
 
 <T>&8[ &eOnline Staff &8]</T><H>&aVisit the staff & applications page! </H><URL>https://piratemc.com/information/team/</URL>
 
-&e-- &6Admins &7& &9Moderation&6 --&r
-{PLAYERLIST:Admiral} {PLAYERLIST:ViceAdmiral} {PLAYERLIST:RearAdmiral} {PLAYERLIST:Commodore}
+&6Admins &7& &9Moderation&6&r
+%luckperms_in_group_Admiral% %luckperms_in_group_ViceAdmiral% %luckperms_in_group_RearAdmiral% %luckperms_in_group_Commodore%
  
-&e-- &7Online &3Helpers&e -- &r
-{PLAYERLIST:Privateer} 
+&7Online &3Helpers&e
+%luckperms_in_group_Privateer%
 
-&e-- &7Online &3Builders&e --&r
-{PLAYERLIST:housewright} {PLAYERLIST:craftsman}
+&7Online &fBuilders&e
+%luckperms_in_group_housewright% %luckperms_in_group_craftsman%
 
 <NextPage>
 
@@ -19,12 +19,13 @@
 
 <T>&8[ &ePirateCraft Team &8]</T><H>&aVisit the staff & applications page! </H><URL>https://piratemc.com/information/team/</URL>
 
-&6/GodsDead&7, &6/Xeron&r, &6/Lawzoneon&7, &6/lazydog11&7, &6/emielreijs&7, &6/creeprr&7, &6/Taulov&7, &6/Bazurka, &6/MrBluBeardedYeti&7, &6/LEGQ&7,
+&6/GodsDead&7, &6/Xeron&r, &6/Bazurka, &6/Lawzoneon&7, &6/lazydog11&7, &6/Taulov&7, &6/emielreijs&7, &6/creeprr&7, &6/LEGQ&7.
 
-<T>&8[ &eRetired & Inactive Staff &8]</T><H>&aVisit the staff & applications page! </H><URL>https://piratemc.com/information/team/</URL>
+<T>&8[ &eRetired Staff &8]</T><H>&aVisit the staff & applications page! </H><URL>https://piratemc.com/information/team/</URL>
 
-&6/SuperGL&7, &6/Iamthereaper89&7, &6/CallieMav&7, &6/KellyYore&7, &6/Chailey&7, &6/Ma_c_hi&7, &6/Arinthros&7, &6/skymanjay&7, &6/Asterity&7, &6/dagersh&7, &6/CrazyPirate1&7, &6/PaulOnFire&7, &6/javainvader&7, &6/mountainrasta&7, &6/_freke_&7, &6/pythonace, &6/Markusi13&7, &6/Smokeyriver&7, &6/Vapecloudbear&7
+&6/SuperGL&7, &6/Iamthereaper89&7, &6/CallieMav&7, &6/Ma_c_hi&7, &6/PaulOnFire&7, &6/mountainrasta&7, &6/Markusi13&7, &6/Smokeyriver&7, &6/Vapecloudbear&7, &6/MrBluBeardedYeti&7.
 
 &ewww.piratemc.com/information/team/ &f
 &6/donate&7 To buy a staff head and reward them!
 &6/request&7 To apply for staff postision.
+
