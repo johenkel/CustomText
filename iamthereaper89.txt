@@ -1,10 +1,10 @@
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &5&lVice Admiral &8]</T>
+<T>&8[ &c&lVice Admiral &8]</T>
 
-&5&lIamthereaper89
-&7Retired Vice Admiral since April 2013.
+&c&lIamthereaper89
+&7Vice Admiral ~ No longer active. April 2013.
 &7 
 &6&nhttp://piratemc.com/members/iamthereaper89/
 &7 
