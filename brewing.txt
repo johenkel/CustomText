@@ -2,7 +2,7 @@
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &ePirateCraft Brewing &8]</T><H>&aGo to the in-depth brewery guide on our website</H><URL>https://piratemc.com/guides/brewery/</URL>
+<T>&8[ &ePirateCraft Brewing &8 ]</T><H>&aGo to the in-depth brewery guide on our website</H><URL>https://piratemc.com/guides/brewery/</URL>
 
 &7Yo-ho-ho PirateCraft has custom Grog brewing!
 &7We have &l&6200&7 custom grogs to figure out! 
@@ -17,10 +17,11 @@
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &ePirateCraft Brewing &8]</T><H>&aGo to the in-depth brewery guide on our website</H><URL>https://piratemc.com/guides/brewery/</URL>
+<T>&8[ &ePirateCraft Brewing &8 ]</T><H>&aGo to the in-depth brewery guide on our website</H><URL>https://piratemc.com/guides/brewery/</URL>
 
 &7We have many un-found custom brews on PirateCraft
 &7as new Brews are being added regulary!
 &7There are prizes for finding out a brew!
 &7Click this link to submit your finding!
 &6&nhttp://piratemc.com/topic/brewing-discoveries
+&f
