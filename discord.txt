@@ -1,0 +1,12 @@
+
+       &7&l&m----------&8&l&m----&7&l&m----------
+
+<T>&8[ &ePirateCraft Discord &8]</T><H>&aGo to the discord page on our website</H><URL>http://piratemc.com/information/discord/</URL>
+
+&7Discord is a free voice & text chat designed specifically for gaming
+&7PirateCraft game chat is also relayed live to our discord!
+&7You can join the official PirateCraft discord server at:
+&e» &6http://discord.piratemc.com
+&e» Verify your account with &6/discord link&7 PM the PirateCraft bot your code.
+&7For more detailed information visit.
+&e» &6&nhttp://piratemc.com/information/discord/ 
