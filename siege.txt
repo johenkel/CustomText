@@ -2,7 +2,7 @@
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &eSiege Information&8]</T><H>&aGo to the in-depth siege guide on our website</H><URL>https://piratemc.com/guides/claims/#siege</URL>
+<T>&8[ &eSiege Information&8 ]</T><H>&aGo to the in-depth siege guide on our website</H><URL>https://piratemc.com/guides/claims/#siege</URL>
 
 &7You can &6/siege&7 a claimed area when the owner or a trustee is inside the claim. 
 &7Siege lasts until someone wins.
@@ -10,16 +10,16 @@
 &7You will be able to break &lsoft blocks &7during a siege.
 &7You have 5 minutes to raid a base and then you will be evicted. 
 
-<T>&8  » [ &eCheck Page 2 for Soft Block list&8]</T><H>&aGo to the in-depth siege guide on our website</H <URL>https://piratemc.com/guides/claims/#siege</URL>
+<T>&8  » [ &eCheck Page 2 for Soft Block list&8] </T><H>&aGo to the in-depth siege guide on our website</H <URL>https://piratemc.com/guides/claims/#siege</URL>
 &7
 
 <NextPage>
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &eSiege Soft Blocks&8]</T><H>&aGo to the in-depth siege guide on our website</H><URL>https://piratemc.com/guides/claims/#siege</URL>
+<T>&8[ &eSiege Soft Blocks&8 ]</T><H>&aGo to the in-depth siege guide on our website</H><URL>https://piratemc.com/guides/claims/#siege</URL>
 
 &eDIRT&7, &6GRASS&7, &eDEADBUSH&7, &6LONG_GRASS&7, &eDOUBLE_PLANT&7, &6TALLGRASS&7, &eLEAVES&7, &6COBBLESTONE&7, &eEND_STONE&7, &6GRAVEL&7, &eSAND&7, &6GLASS&7, &eTHIN_GLASS&7, &6WOOD&7, &eWOOL&7, &6SNOW&7, &eSTAINED_GLASS&7, &6STAINED_GLASS_PANE&7, &eWOOD_DOUBLE_STEP&7, &6WOOD_STEP&7, &eNETHERRACK&7, &6GRASS_PATH&7, &eCOBBLESTONE_STAIRS&7, &6FARMLAND&7.
 
-<T>&8  » [ &eSiege Information&8]</T><H>&aGo to the siege page on our website</H><URL>https://piratemc.com/guides/claims/#Siege</URL>
+<T>&8  » [ &eSiege Information&8 ]</T><H>&aGo to the siege page on our website</H><URL>https://piratemc.com/guides/claims/#Siege</URL>
 &f
