@@ -1,0 +1,17 @@
+
+       &7&l&m----------&8&l&m----&7&l&m----------
+
+<T>&8[ &eVote Information &8]</T><H>Go to the vote page on our website</H><URL>https://piratemc.com/information/vote/</URL>
+
+&7Every &e3 &7votes gets you &e1&7 vote key.
+&7Open all 9 at once on&6 https://piratemc.com/information/vote/
+&e1. &7PlanetMinecraft&6 http://bit.ly/PiratePMC
+&e2. &7Mineservers&6 http://bit.ly/piratecraftmc
+&e3. &7minecraft-server.net&6 http://bit.ly/PirateMSL
+&e4. &7Minecraft Servers.org&6 http://bit.ly/piratecraftms
+&e5. &7Minecraft-server-list&6 http://bit.ly/piratecraftmsl
+&e6. &7TopG&6 http://bit.ly/piratecrafttopg
+&e7. &7minecraftservers.biz&6 http://bit.ly/PirateMSbiz
+&e8. &7Minecraft-mp&6 http://bit.ly/pc-mc-mp
+&e9. &7MC-Index&6 http://bit.ly/PirateMCI
+&f
