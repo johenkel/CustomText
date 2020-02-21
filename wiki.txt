@@ -1,0 +1,6 @@
+
+       &7&l&m----------&8&l&m----&7&l&m----------
+
+<T>&8[ &ePirateCraft Wiki &8]</T><H>&aGo to the wiki!</H><URL>http://wiki.piratemc.com</URL>
+
+&6&nhttp://wiki.piratemc.com
