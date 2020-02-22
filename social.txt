@@ -2,10 +2,10 @@
 
 <T>&8[ &eSocial Media &8]</T><H>&aGo to the social media page on our website</H><URL>https://piratemc.com/information/social/</URL>
 
-&e»&6 &nhttps://discord.piratemc.com &e- &7Discord
-&e»&6 &nhttps://twitter.com/minecraftpirate &e- &7Twitter
-&e»&6 &nhttps://www.facebook.com/pirateminecraft &e- &7Facebook
-&e»&6 &nhttps://www.reddit.com/r/piratecraft/ &e- &7Reddit
-&e»&6 &nhttps://www.instagram.com/piratecraft/ &e- &7Instagram
-&e»&6 &nhttps://www.youtube.com/piratemc &e- &7YouTube
-&e»&6 &nhttps://piratemc.com/forums/ &e- &7Forums
+&e»&6 https://discord.piratemc.com &e- &7Discord
+&e»&6 https://twitter.com/minecraftpirate &e- &7Twitter
+&e»&6 https://www.facebook.com/pirateminecraft &e- &7Facebook
+&e»&6 https://www.reddit.com/r/piratecraft/ &e- &7Reddit
+&e»&6 https://www.instagram.com/piratecraft/ &e- &7Instagram
+&e»&6 https://www.youtube.com/piratemc &e- &7YouTube
+&e»&6 https://piratemc.com/forums/ &e- &7Forums
