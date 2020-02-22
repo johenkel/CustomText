@@ -12,7 +12,6 @@
 
 <T>&8  » [ &eCheck Page 2 for Soft Block list&8] </T><H>&aGo to the in-depth siege guide on our website</H <URL>https://piratemc.com/guides/claims/#siege</URL>
 &7
-
 <NextPage>
 
        &7&l&m----------&8&l&m----&7&l&m----------
