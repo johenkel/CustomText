@@ -5,7 +5,7 @@
 <T>&8[ &ePirateCraft Brewing &8 ]</T><H>&aGo to the in-depth brewery guide on our website</H><URL>https://piratemc.com/guides/brewery/</URL>
 
 &7Yo-ho-ho PirateCraft has custom Grog brewing!
-&7We have &l&6200&7 custom grogs to figure out! 
+&7We have &e200&7 custom grogs to figure out! 
 &7Most have mutliple stages of being distilled in Barrels & boiling.
 &7Timing is key when brewing.
 &7Each Grog has its own custom effects when drinking!
