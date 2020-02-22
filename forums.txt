@@ -2,7 +2,7 @@
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &ePirateCraft Sticked Forum Threads &8]</T><H>&aClick here to visit the forums!</H><URL>https://piratemc.com/information/rules/</URL>
+<T>&8[ &ePirateCraft Sticked Forum Threads &8]</T><H>&aClick here to visit the forums!</H><URL>https://piratemc.com/forums/</URL>
 
 &e»&7 Master Thread list &6http://bit.ly/spmtl
 &e»&7 Not able to &6/rankup&7? &6http://bit.ly/pclostrank
@@ -17,7 +17,7 @@
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &ePirateCraft Sticked Forum Threads &8]</T><H>&aClick here to visit the forums!</H><URL>https://piratemc.com/information/rules/</URL>
+<T>&8[ &ePirateCraft Sticked Forum Threads &8]</T><H>&aClick here to visit the forums!</H><URL>https://piratemc.com/forums/</URL>
 
 &e»&7 Spawn Builders &6http://bit.ly/pcspawnbuild
 &e»&7 Cove Builders &6http://bit.ly/pccovebuild
@@ -32,7 +32,7 @@
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &ePirateCraft Sticked Forum Threads &8]</T><H>&aClick here to visit the forums!</H><URL>https://piratemc.com/information/rules/</URL>
+<T>&8[ &ePirateCraft Sticked Forum Threads &8]</T><H>&aClick here to visit the forums!</H><URL>https://piratemc.com/forums/</URL>
 
 &e»&7 Apply for media screenshots &6http://bit.ly/2rVe80M
 &e»&7 Apply for media writing &6http://bit.ly/2r1UdPD
