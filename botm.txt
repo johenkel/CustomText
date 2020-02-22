@@ -1,6 +1,6 @@
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &ePirateCraft Build of the Month&8]</T><H>Go to the BOTM page on our website</H><URL>https://piratemc.com/forums/competitions/</URL>
+<T>&8[ &ePirateCraft Build of the Month&8 ]</T><H>Go to the BOTM page on our website</H><URL>https://piratemc.com/forums/competitions/</URL>
 
 &7Enter any building or ship to 
 &7PirateCrafts build of the month
