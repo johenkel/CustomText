@@ -28,3 +28,4 @@
 &e» &7 Create a crew with &6/crew create&7.
 
 <T>&8  » [ &eEconomy Guide&8]</T><H>&aGo to the economy page on our website</H><URL>https://piratemc.com/guides/economy/</URL>
+&f
