@@ -24,9 +24,9 @@
 &e1.&7 No offensive structures.
 &e2.&7 No building within eyesight of any &6/travel&7 warps including &6/spawn&7.
 &e3.&7 No building outside of worlds (Not on top of nether)
-&e3.&7 Do not Grief
-&e3.&7 Do not build 1x1 towers, temporary use only.
-&e4.&7 Be Responsible with the privileges you are given as a Builder/Mod
+&e4.&7 Do not grief, only destroy &lnecessary blocks &7when sieging. 
+&e5.&7 Do not build 1x1 towers, temporary use only.
+&e6.&7 Be responsible with the privileges you are given as a Builder/Mod
 
 <NextPage>
 
@@ -35,9 +35,9 @@
 <T>&8[ &ePunishments &8]</T><H>Go to the punishments lookup website</H><URL>https://piratemc.com/punishments/</URL>
 
 &7Punishments can be singular or a mix of the following: 
-  &8» &7&oHandcuffed, Kick, Warning, Jail, Sent to the Locker, Temp Mute, Permanent Mute, Temp Ban, Perminant Ban, Stats & Rank reset&r.
+  &8» &7&oHandcuffed, Warning, Kick, Jail, Locker, Temp & Permanent Mute, Temp & Permanent Ban, Stats & Rank reset&r.
 
-&e3&7 Warnings of any kind are grounds for a perminant ban.
+&e3&7 Warnings of any kind are grounds for a permanent ban.
 &7No sanction appeal ingame. Do not try to pass over a sanction.
 
 <T>&8  » [ &eView Detailed Rules &8]</T><H>&aGo to the in-depth rules page on our website</H><URL>https://piratemc.com/information/rules/</URL>
