@@ -4,4 +4,4 @@
 
 # TO-DO list
 
-* Staff Bio Commands
+* COMPLETE!
