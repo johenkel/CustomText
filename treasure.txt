@@ -9,7 +9,7 @@
 &7This is a loot-crate, that requires a key to open!
 &e» &6Left click&7 Chest to view what you could win! (No key needed)
 &e» &6Right click&7 Chest with key to open and claim a random prize.
-
+&f
 <NextPage>
 
        &7&l&m----------&8&l&m----&7&l&m----------
@@ -22,3 +22,4 @@
 
 <T>&8  » [ &eView Vote Page &8]</T><H>&aGo to the vote page on our website</H><URL>https://piratemc.com/information/vote/</URL>
 <T>&8  » [ &eView Store Page &8]</T><H>&aGo to the store page on our website</H><URL>https://piratemc.com/donate/#keys</URL>
+&f
