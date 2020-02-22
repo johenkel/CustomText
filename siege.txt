@@ -9,6 +9,7 @@
 &7You lose a siege by dying, disconnecting or leaving the claim.
 &7You will be able to break &lsoft blocks &7during a siege.
 &7You have 5 minutes to raid a base and then you will be evicted. 
+&7Anything that is &lnot&7 listed as a soft block &lis&7 siege-proof.
 
 <T>&8  » [ &eCheck Page 2 for Soft Block list&8] </T><H>&aGo to the in-depth siege guide on our website</H <URL>https://piratemc.com/guides/claims/#siege</URL>
 &7
