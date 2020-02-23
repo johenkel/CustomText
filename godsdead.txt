@@ -4,11 +4,13 @@
 <T>&8[ &c&lAdmiral &8]</T>
 
 &c&lGodsDead
-&7PirateCraft Founder since Sep 2012
+&7PirateCraft Founder since September 2012
 &7 
 &7&o"Life is 10% what happens to you and 90% how you react to it."
-&7 
-&6&nhttp://piratemc.com/members/godsdead/
 &7
 &7Must Watch:
 &6&nhttps://www.youtube.com/watch?v=b8HO6hba9ZE
+&7 
+&6&nhttp://piratemc.com/members/godsdead/
+&7
+
