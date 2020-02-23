@@ -4,16 +4,16 @@
 
 <T>&8[ &ePirateCraft Info &8]</T><H>&aGo to the in-depth info page on our website</H><URL>https://piratemc.com/information/</URL>
 
-&7&oAhoy {PLAYER}&7 | Livemap: &6&npiratemc.com/map
-&7Balance:&e {BALANCE}&7 | Mail:&e {MAILS}
-&6/motd&7 Latest Updates.
+&7&oAhoy %cmi_user_display_name%&7 | Livemap: &6&npiratemc.com/map
+&7Balance:&e %vault_eco_balance_fixed%&7 | Mail:&e {MAILS}
+<T>&6/motd&7 Latest Updates.</T><H>&a/motd</H><C>motd</C>
 <T>&6/howtoplay&7 First time playing guide.</T><H>&a/howtoplay</H><C>guide howtoplay</C>
 <T>&6/rules&7 Rules List.</T><H>&a/rules</H><C>guide rules</C>
 <T>&6/claims&7 Protecting Land & Builds.</T><H>&a/claims</H><C>guide claims</C>
-&6/crews&7 Creating a crew & Info.
-&6/ranks&7 List All Ranks & Perks.
-&6/rank&7 Check your rank progress.
-&6/guide donate&7 & &6/warp donate&7 Information.
+<T>&6/crews&7 Creating a crew & Info.</T><H>&a/crews</H><C>guide crews</C>
+<T>&6/ranks&7 List all Ranks & Perks.</T><H>&a/ranks</H><C>guide ranks</C>
+<T>&6/rank&7 Check your rank progress.</T><H>&a/rank</H><C>rank</C>
+<T>&6/guide donate&7 & &6/warp donate&7 Information.</T><H>&a/donate</H><C>guide donate</C>
 &f
 <NextPage>
 
@@ -21,13 +21,14 @@
 
 <T>&8[ &ePirateCraft Info &8]</T><H>&aGo to the in-depth info page on our website</H><URL>https://piratemc.com/information/</URL>
 
-&6/donate&7 for Ranks, Claims and In-Game Money.
-&6/coinage&7 Earn/Spend Money.
-&6/shop&7 How to build a shop.
-&6/ships&7 List ship types & Statistics.
-&6/cannons&7 & &6/warp cannons&7.
-&6/gates&7 Build Gates.
-&6/bridges&7 Build Bridges.
-&6/brewing&7 Brew some Rum Yohoho!
-&6/help&7 Displays all avalible commands.
+<T>&6/donate&7 for Ranks, Claims and In-Game Money.</T><H>&a/donate</H><C>donate</C>
+<T>&6/coinage&7 Earn/Spend Money.</T><H>&a/coinage</H><C>guide coinage</C>
+<T>&6/shop&7 How to build a shop.</T><H>&a/shop</H><C>guide shop</C>
+<T>&6/ships&7 Ship types & Statistics.</T><H>&a/ships</H><C>guide ships</C>
+<T>&6/cannons&7 & &6/warp cannons&7.</T><H>&a/cannons</H><C>cannons</C>
+<T>&6/gates&7 Build Gates.</T><H>&a/gates</H><C>guide gates</C>
+<T>&6/bridges&7 Build Bridges.</T><H>&a/bridges</H><C>guide bridges</C>
+<T>&6/brewing&7 Brew some Rum Yohoho!</T><H>&a/brewing</H><C>guide brewing</C>
+<T>&6/staff&7 The Staff Team.</T><H>&a/staff</H><C>guide staff</C>
+<T>&6/help&7 Displays all avalible commands.</T><H>&a/help</H><C>help</C>
 &f
