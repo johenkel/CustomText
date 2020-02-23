@@ -28,6 +28,6 @@
 &e» &7When the blocks receive redstone power, the bridge will move to the south or east (in other words, increasing x or z coordinates; depending on which direction is free), when they lose redstone power, it will move to the north or west (in other words, decreasing x or z coordinates). 
 &e» &7For working examples visit &6/warp tutorials &7and visit our website for detailed information and video tutorial. 
 
-<T>&8  » [ &eBridge Page &8]</T>&aGo to the bridges page on our website</H><URL>https://piratemc.com/guides/retractable-bridges/</URL>
-<T>&8  » [ &eTutorial Bridge &8]</T>&aGo to the tutorial area</H><C>warp tutorials</C>
+<T>&8  » [ &eBridge Page &8]</T><H>&aGo to the bridges page on our website</H><URL>https://piratemc.com/guides/retractable-bridges/</URL>
+<T>&8  » [ &eTutorial Bridge &8]</T><H>&aGo to the tutorial area</H><C>warp tutorials</C>
 &f
