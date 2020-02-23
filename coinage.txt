@@ -2,30 +2,30 @@
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &eEarning Money &8]</T><H>Go to the economy page on our website</H><URL>https://piratemc.com/guides/economy/</URL>
+<T>&8[ &eEarning Money &8]</T><H>&aGo to the economy page on our website</H><URL>https://piratemc.com/guides/economy/</URL>
 
 &e» &6/donate&7 Packages include in-game money, Go to Misc just for money.
-&e» &7Sell Claim Blocks with &6/SellClaim&7.
-&e» &7Selling Items at &6/warp shop&7.
-&e» &7Win cash prizes from at &6/vote&7 (3 Votes Required for a key).
-&e» &7Start a &6/shop&7 and sell items.
-&e» &7Win the &6/lottery&7, Drawn every 2 Hours.
-&e» &7Collect Bounties. Check &6/bounty list&7.
-&e» &7Sell Logs at the &e&lLumberjack&7 in &6/warp cove&7.
+<T>&e» &7Sell Claim Blocks with &6/SellClaim&7.</T><H>&a/sellclaim</H><C>sellclaim</C>
+<T>&e» &7Selling Items at &6/warp shop&7.</T><H>&a/warp shop</H><C>warp shop</C>
+<T>&e» &7Win cash prizes from at &6/vote&7</T> (3 Votes Required for a key).</T><H>&a/vote</H><C>vote</C>
+<T>&e» &7Start a &6/shop&7 and sell items.</T><H>&a/shop</H><C>shop</C>
+<T>&e» &7Win the &6/lottery&7, Drawn every 2 Hours.</T><H>&a/lottery</H><C>lottery</C>
+<T>&e» &7Collect Bounties. Check &6/bounty list&7.</T><H>&a/bounty list</H><C>bounty list</C>
+<T>&e» &7Sell Logs at the &e&lLumberjack&7 in &6/warp cove&7.</T><H>&a/warp cove</H><C>warp cove</C>
 
 <NextPage>
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &eSpending Money &8]</T><H>Go to the player reports page on our website</H>Go to the economy page on our website</H><URL>https://piratemc.com/guides/economy/</URL>
+<T>&8[ &eSpending Money &8]</T><H>&aGo to the economy page on our website</H><URL>https://piratemc.com/guides/economy/</URL>
 
-&e» &7 Buy Sun/Storm/Day/Night/Repair Items at &6/warp cove&7.
-&e» &7 Create deals &6/pay&7 players.
-&e» &7 Buy kits & Resources via server & Player shops &6/warp shops&7.
-&e» &7 Buy claim blocks with &6/BuyClaim&7.
-&e» &7 Place bounty on a player &6/bounty place&7.
+<T>&e» &7 Buy Sun/Storm/Day/Night/Repair Items at &6/warp cove&7.</T><H>&a/warp cove</H><C>warp cove</C>
+<T>&e» &7 Create deals, &6/pay&7 players.</T><H>&a/pay</H><C>pay</C>
+<T>&e» &7 Buy kits & Resources via server & Player shops &6/warp shops&7.</T><H>&a/warp shop</H><C>warp shop</C>
+<T>&e» &7 Buy claim blocks with &6/BuyClaim&7.</T><H>&a/buyclaim</H><C>buyclaim</C>
+<T>&e» &7 Place bounty on a player &6/bounty place&7.</T><H>&a/bounty place</H><C>bounty list</C>
 &e» &7 Enter the lottery &6/lottery buy 1-3&7.
-&e» &7 Create a crew with &6/crew create&7.
+<T>&e» &7 Create a crew with &6/crew create&7.</T><H>&a/crew create</H><C>crew create</C>
 
-<T>&8  » [ &eEconomy Guide&8]</T><H>&aGo to the economy page on our website</H><URL>https://piratemc.com/guides/economy/</URL>
+<T>&8  » [ &eEconomy Guide &8]</T><H>&aGo to the economy page on our website</H><URL>https://piratemc.com/guides/economy/</URL>
 &f
