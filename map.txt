@@ -1,6 +1,7 @@
-
+&f
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &ePirateCraft Map &8]</T><H>&aGo to the map page on our website</H><URL>https://map.piratemc.com/</URL>
+<T>&8[ &ePirateCraft Live Map &8]</T><H>&aGo to the map page on our website</H><URL>https://map.piratemc.com/</URL>
 
 &6&nhttp://piratemc.com/map/
+&f
