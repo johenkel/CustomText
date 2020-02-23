@@ -1,4 +1,3 @@
-<AutoPage>
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
@@ -8,13 +7,6 @@
 &7Detailed Guides: &6https://piratemc.com/guides/
 &7Live Map: &6https://piratemc.com/map/
 &7More Detailed Information: &6https://piratemc.com/information/
-&f
-<NextPage>
-&f 
-      &7&l&m----------&8&l&m----&7&l&m----------
-
-<T>&8[ &ePirateCraft Website&8 ]</T><H>&aGo to our website</H><URL>https://piratemc.com/</URL>
-
 &7Store: &6https://piratemc.com/donate/
 &7Forums: &6https://piratemc.com/forums/
 &7Wiki: &6https://wiki.piratemc.com/
