@@ -1,4 +1,5 @@
-       &7&l&m----------&8&l&m----&7&l&m----------
+&f 
+      &7&l&m----------&8&l&m----&7&l&m----------
 
 <T>&8[ &ePirateCraft Getting Started &8]</T><H>&aGo to the in-depth getting started guide on our website</H><URL>https://piratemc.com/guides/getting-started/ </URL>
 
@@ -11,3 +12,4 @@
 &e»&7 Use &6/wild&7 to find somewhere to call home&7.
 &7Please read the getting started guide!
 &6https://piratemc.com/guides/getting-started/ 
+&f
