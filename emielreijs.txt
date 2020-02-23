@@ -1,7 +1,7 @@
-
+&f
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &9&lCommodore &8]</T>
+&8[ &9&lCommodore &8]
 
 &9&lemielreijs 
 &7Commodore since August 2018
@@ -9,4 +9,4 @@
 &7&o"Heey how are ye doing?"
 &7
 &6&nhttp://piratemc.com/members/emielreijs 
-&7 
+&f
