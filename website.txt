@@ -2,7 +2,7 @@
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &ePirateCraft Website&8 ]</T><H>Go to our website</H><URL>https://piratemc.com/</URL>
+<T>&8[ &ePirateCraft Website&8 ]</T><H>&aGo to our website</H><URL>https://piratemc.com/</URL>
 
 &7Website: &6http://piratemc.com/
 &7Detailed Guides: &6https://piratemc.com/guides/
@@ -13,7 +13,7 @@
 &f 
       &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &ePirateCraft Website&8 ]</T><H>Go to our website</H><URL>https://piratemc.com/</URL>
+<T>&8[ &ePirateCraft Website&8 ]</T><H>&aGo to our website</H><URL>https://piratemc.com/</URL>
 
 &7Store: &6https://piratemc.com/donate/
 &7Forums: &6https://piratemc.com/forums/
