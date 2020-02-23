@@ -4,7 +4,7 @@
 
 <T>&8[ &eTreasure Chests &8]</T><H>&aGo to the treasure key page on our website</H><URL>https://piratemc.com/donate/#keys</URL>
 
-&7Thar be a special &e&lTreasure Chest&7 at &6/warp cove&7
+<T>&7Thar be a special &e&lTreasure Chest&7 at <T>&6/warp cove&7</T><H>&a/warp cove</H><C>warp cove</C>  
 &7Look left as you arrive, its the enderchest on the boat.
 &7This is a loot-crate, that requires a key to open!
 &e» &6Left click&7 Chest to view what you could win! (No key needed)
@@ -17,8 +17,8 @@
 <T>&8[ &eHow to get a key &8]</T><H>&aGo to the store to buy keys!</H><URL>https://piratemc.com/donate/#keys</URL>
 
 &7Keys are dropped to a random online player every hour, during events.
-&7You can use &6/vote&7 to win a vote key! Every 3 votes gets you &61 &7key.
-&7You can also &6/donate&7 To buy a pack of keys! Check &6/motd&7 for deals!
+<T>&7You can use &6/vote&7 to win a vote key! Every 3 votes gets you &61 &7key.</T><H>&a/vote</H><C>vote</C>  
+<T>&7You can also &6/donate&7 To buy a pack of keys! Check &6/motd&7 for deals!</T><H>&a/donate</H><C>donate</C>  
 
 <T>&8  » [ &eView Vote Page &8]</T><H>&aGo to the vote page on our website</H><URL>https://piratemc.com/information/vote/</URL>
 <T>&8  » [ &eView Store Page &8]</T><H>&aGo to the store page on our website</H><URL>https://piratemc.com/donate/#keys</URL>
