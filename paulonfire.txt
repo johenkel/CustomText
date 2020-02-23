@@ -1,10 +1,10 @@
-
+&f
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &b&lHousewright &8]</T>
+&8[ &b&lHousewright &8]
 
 &b&lPaulOnFire
 &7Build Team Leader & Skin Maker ~ No longer active.
 &7 
 &6&nhttp://piratemc.com/members/PaulOnFire/
-&7 
+&f 
