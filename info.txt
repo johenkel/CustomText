@@ -7,9 +7,9 @@
 &7&oAhoy {PLAYER}&7 | Livemap: &6&npiratemc.com/map
 &7Balance:&e {BALANCE}&7 | Mail:&e {MAILS}
 &6/motd&7 Latest Updates.
-&6/howtoplay&7 First time playing guide.<H>&a/howtoplay</H><C>guide howtoplay</C>
-&6/rules&7 Rules List.<H>&a/rules</H><C>guide rules</C>
-&6/claims&7 Protecting Land & Builds.<H>&a/claims</H><C>guide claims</C>
+<T>&6/howtoplay&7 First time playing guide.</T><H>&a/howtoplay</H><C>guide howtoplay</C>
+<T>&6/rules&7 Rules List.</T><H>&a/rules</H><C>guide rules</C>
+<T>&6/claims&7 Protecting Land & Builds.</T><H>&a/claims</H><C>guide claims</C>
 &6/crews&7 Creating a crew & Info.
 &6/ranks&7 List All Ranks & Perks.
 &6/rank&7 Check your rank progress.
