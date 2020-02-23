@@ -7,6 +7,7 @@
 &e»&7 We have working &6/ships&7, &6/cannons&7, &6/gates&7, &6/bridges&7 and custom &6/brewing&7.
 &e»&7 Check your &6/rank&7 requirements, List all & &6/ranks&7. 
 &e»&7 Learn how to make money with &6/coinage&7, check your &6/bal&7.
-&e»&7 Information can be found at &6/info&7 & Your &6/kit bible&r. 
+&e»&7 Information can be found at &6/info&7 & Your &6/kit bible&7. 
+&e»&7 Use &6/wild&7 to find somewhere to call home&7.
 &7Please read the getting started guide!
 &6https://piratemc.com/guides/getting-started/ 
