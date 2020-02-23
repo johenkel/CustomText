@@ -1,4 +1,4 @@
-
+&f
        &7&l&m----------&8&l&m----&7&l&m----------
 
 <T>&8[ &eClaims &8]</T><H>&aGo to the in-depth claims guide on our website</H><URL>https://piratemc.com/guides/claims/</URL>
@@ -6,8 +6,9 @@
 &e» &7Right click two opposite sides with a &6Golden Spade&7 or &6/createclaim to create claims. 
 &e» &7Resize by standing inside & right clicking the glowstone corner, Right click again where you want to expand/shrink.
 &e» &7Right clicking with a &6Stick&7 examines claim ownership.
-&e» &7To allow someone to build in your claim, type &6/trust USERNAME&7. 
-&e» &6/untrust USERNAME&7, to untrust someone.
-&e» &7Beware of pirates! Type &6/guide siege&7 to learn more.
+<T>&e» &7To allow someone to build in your claim, type &6/trust USERNAME&7.</T><H>&a/trust</H><C>trust</C> 
+<T>&e» &6/untrust USERNAME&7, to untrust someone.</T><H>&a/untrust</H><C>untrust</C>  
+<T>&e» &7Beware of pirates! Type &6/guide siege&7 to learn more.</T><H>&a/guide siege</H><C>guide siege</C>  
 
 <T>&8  » [ &eView Detailed Claiming Guide &8]</T><H>&aGo to the in-depth claims guide on our website</H><URL>https://piratemc.com/guides/claims/</URL>
+&f
