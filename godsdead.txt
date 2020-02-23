@@ -1,7 +1,7 @@
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &c&lAdmiral &8]</T>
+&8[ &c&lAdmiral &8]
 
 &c&lGodsDead
 &7PirateCraft Founder since September 2012
