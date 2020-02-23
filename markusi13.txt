@@ -1,10 +1,10 @@
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &6&lRear Admiral &8]</T>
+&8[ &6&lRear-Admiral &8]
 
 &6&lMarkusi13
-&7Rear Admiral ~ No longer active. Feburary 2014
+&7Rear-Admiral ~ No longer active. Feburary 2014
 &7 
 &7&o "No risk no fun"
 &7 
