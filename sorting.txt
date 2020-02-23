@@ -3,4 +3,7 @@
 
 <T>&8[ &ePirateCraft Auto Sorting &8]</T><H>&aGo to the auto item sorting page on our website</H><URL>http://piratemc.com/guides/automatic-item-sorting/</URL>
 
+&7Automatic item sorting is a system that organizes items in your chests and inventory. It also allows you to quickly deposit items from your inventory into chests as sorted stacks, automatically!
+&7How can I use this? To use all the features you need to be a &aCaptain &7contributor rank. &aCommander &7contributor ranks get access to automatic inventory sorting only.
+
 &6&nhttp://piratemc.com/guides/automatic-item-sorting/
