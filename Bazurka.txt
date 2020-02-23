@@ -1,4 +1,4 @@
-
+&f
        &7&l&m----------&8&l&m----&7&l&m----------
 
 &8[ &6&lRear-Admiral &8]
@@ -9,4 +9,4 @@
 &7&o"Home is where the anchor drops."
 &7
 &6&nhttps://piratemc.com/members/Bazurka
-&7 
+&f
