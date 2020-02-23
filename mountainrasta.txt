@@ -1,10 +1,10 @@
-
+&f
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &6&lRear Admiral &8]</T>
+&8[ &6&lRear-Admiral &8]
 
 &6&lmountainrasta
-&7Rear Admiral ~ No longer active. May 2016
+&7Rear-Admiral ~ No longer active. May 2016
 &7 
 &6&nhttp://piratemc.com/members/mountainrasta/
-&7
+&f
