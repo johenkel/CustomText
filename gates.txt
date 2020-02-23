@@ -10,5 +10,5 @@
 &e» &7&lImportant: &7Make sure an elevated portcullis is still in contact with a powered adjacent block, otherwise it won’t be able to be sent back down! 
 
 <T>&8  » [ &ePortcullis Gates Page &8]</T>&aGo to the portcullis gates page on our website</H><URL>https://piratemc.com/guides/portcullis/</URL>
-<T>&8  » [ &eTutorial Gate &8]</T>&aGo to the tutorial area</H><C>warp tutorials</C>
+<T>&8  » [ &eTutorial Portcullis Gate &8]</T><H>&aGo to the tutorial area</H><C>warp tutorials</C>
 &f
