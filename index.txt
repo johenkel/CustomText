@@ -23,7 +23,7 @@
 <T>&6/coinage&7 Earn/Spend Money.</T><H>&a/coinage</H><C>guide coinage</C>
 <T>&6/shop&7 How to build a shop.</T><H>&a/shop</H><C>guide shop</C>
 <T>&6/ships&7 Ship types & Statistics.</T><H>&a/ships</H><C>guide ships</C>
-<T>&6/cannons&7 & &6/tuts&7.</T><H>&a/cannons</H><C>cannons</C>
+<T>&6/cannons&7 Cannons.</T><H>&a/cannons</H><C>cannons</C>
 <T>&6/gates&7 Build Gates.</T><H>&a/gates</H><C>guide gates</C>
 <T>&6/bridges&7 Build Bridges.</T><H>&a/bridges</H><C>guide bridges</C>
 <T>&6/brewing&7 Brew some Rum Yohoho!</T><H>&a/brewing</H><C>guide brewing</C>
