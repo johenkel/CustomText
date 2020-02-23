@@ -4,7 +4,8 @@
 &8[ &6&lRear-Admiral &8]
 
 &6&lSuperGL
-&7Retired PirateCraft Co-Founder ~ No longer active. September 2012
+&7Retired PirateCraft Co-Founder ~ No longer active.
+&7September 2012
 &7 
 &6&nhttp://piratemc.com/members/supergl/
 &f
