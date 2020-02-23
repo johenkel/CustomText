@@ -1,10 +1,10 @@
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &6&lRear Admiral &8]</T>
+&8[ &6&lRear-Admiral &8]
 
 &6&llazydog11
-&7Rear Admiral since October 2017
+&7Rear-Admiral since October 2017
 &7 
 &7&o"I've got to fix dinner."
 &7
