@@ -22,6 +22,5 @@
 &7We have many un-found custom brews on PirateCraft
 &7as new Brews are being added regulary!
 &7There are prizes for finding out a brew!
-&7Click this link to submit your finding!
-&6&nhttp://piratemc.com/topic/brewing-discoveries
+&7Go to &6/warp cove&7 to submit your finding!
 &f
