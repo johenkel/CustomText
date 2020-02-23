@@ -6,14 +6,14 @@
 
 &7&oAhoy {PLAYER}&7 | Livemap: &6&npiratemc.com/map
 &7Balance:&e {BALANCE}&7 | Mail:&e {MAILS}
-&6/motd&7 Latest Updates
-&6/howtoplay&7 First time playing guide
-&6/rules&7 Rules List
-&6/claims&7 Protecting Land & Builds
-&6/crews&7 Creating a crew & Info
-&6/ranks&7 List All Ranks & Perks
-&6/rank&7 Check your rank progress
-&6/guide donate&7 & &6/warp donate&7 Information
+&6/motd&7 Latest Updates.
+&6/howtoplay&7 First time playing guide.
+&6/rules&7 Rules List.
+&6/claims&7 Protecting Land & Builds.
+&6/crews&7 Creating a crew & Info.
+&6/ranks&7 List All Ranks & Perks.
+&6/rank&7 Check your rank progress.
+&6/guide donate&7 & &6/warp donate&7 Information.
 &f
 <NextPage>
 
@@ -21,13 +21,13 @@
 
 <T>&8[ &ePirateCraft Info &8]</T><H>&aGo to the in-depth info page on our website</H><URL>https://piratemc.com/information/</URL>
 
-&6/donate&7 for Ranks, Claims and In-Game Money
-&6/coinage&7 Earn/Spend Money
-&6/shop&7 How to build a shop
-&6/ships&7 List ship types & Statistics
-&6/cannons&7 & &6/warp cannons&r
-&6/gates&7 Build Gates
-&6/bridges&7 Build Bridges
+&6/donate&7 for Ranks, Claims and In-Game Money.
+&6/coinage&7 Earn/Spend Money.
+&6/shop&7 How to build a shop.
+&6/ships&7 List ship types & Statistics.
+&6/cannons&7 & &6/warp cannons&7.
+&6/gates&7 Build Gates.
+&6/bridges&7 Build Bridges.
 &6/brewing&7 Brew some Rum Yohoho!
-&6/help&7 Displays all avalible commands
+&6/help&7 Displays all avalible commands.
 &f
