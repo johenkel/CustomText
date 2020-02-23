@@ -1,10 +1,10 @@
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &6&lRear Admiral &8]</T>
+&8[ &6&lRear-Admiral &8]
 
 &6&lBazurka
-&7Rear Admiral since September 2018
+&7Rear-Admiral since September 2018
 &7 
 &7&o"Home is where the anchor drops."
 &7
