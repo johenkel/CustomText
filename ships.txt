@@ -10,13 +10,13 @@
 &e6. &7Frigate&6 - Gunner                  &e7. &7Galleon&6 - Boatswain
 &e8. &7Manowar&6 - Donator                 &e9. &7Indiaman&6 - Captain
 &e10. &7Barracuda&6 - Sailor               &e11. &7Seawolf&6 - Sailor
-&e12. &7WoodTurret/Crane&6 - Sailor    &e13. &7StoneTurret/Crane&6 - Sailor             
+&e12. &7WoodTurret/Crane&6 - Sailor     &e13. &7StoneTurret/Crane&6 - Sailor             
 
 <NextPage>
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &eDhow - Available from Deckhand &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/</URL>
+<T>&8[ &eDhow - Available from Deckhand &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/#dhow</URL>
 
 &eMinSize: &725 Blocks&r
 &eMaxSize: &7150Blocks&r
@@ -30,7 +30,7 @@
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &eSchooner - Available from Sailor &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/</URL>
+<T>&8[ &eSchooner - Available from Sailor &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/#schooner</URL>
 
 &eMinSize: &7150 Blocks&r
 &eMaxSize: &7500 Blocks&r
@@ -44,7 +44,7 @@
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &eBarge - Available from Sailor &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/</URL>
+<T>&8[ &eBarge - Available from Sailor &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/#barge</URL>
 
 &eMinSize: &7200 Blocks&r
 &eMaxSize: &7600 Blocks&r
@@ -59,7 +59,7 @@
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &eBrig - Available from Carpenter &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/</URL>
+<T>&8[ &eBrig - Available from Carpenter &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/#brig</URL>
 
 &eMinSize: &7500 Blocks&r
 &eMaxSize: &7750 Blocks&r
@@ -73,7 +73,7 @@
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &eFrigate - Available from Gunner &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/</URL>
+<T>&8[ &eFrigate - Available from Gunner &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/#frigate</URL>
 
 &eMinSize: &7750 Blocks&r
 &eMaxSize: &71250 Blocks&r
@@ -87,7 +87,7 @@
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &eGalleon - Available from Boatswain &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/</URL>
+<T>&8[ &eGalleon - Available from Boatswain &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/#galleon</URL>
 
 &eMinSize: &71250 Blocks&r
 &eMaxSize: &71650 Blocks&r
@@ -101,7 +101,7 @@
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &eManowar - Available from Lieutenant &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/</URL>
+<T>&8[ &eManowar - Available from Lieutenant &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/#manowar</URL>
 
 &eMinSize: &71650 Blocks&r
 &eMaxSize: &72500 Blocks&r
@@ -115,7 +115,7 @@
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &eIndiaman - Available from Lieutenant&8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/</URL>
+<T>&8[ &eIndiaman - Available from Lieutenant&8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/#indiaman</URL>
 
 &eMinSize: &72500 Blocks&r
 &eMaxSize: &75000 Blocks&r
@@ -129,7 +129,7 @@
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &eBarracuda (Sub) - Available from Sailor &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/</URL>
+<T>&8[ &eBarracuda (Sub) - Available from Sailor &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/#barracuda</URL>
 
 &eMinSize: &7200 Blocks&r
 &eMaxSize: &7600 Blocks&r
@@ -144,7 +144,7 @@
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &eSeawolf (Sub) - Available from Sailor &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/</URL>
+<T>&8[ &eSeawolf (Sub) - Available from Sailor &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/#seawolf</URL>
 
 &eMinSize: &7600 Blocks&r
 &eMaxSize: &71000 Blocks&r
@@ -159,7 +159,7 @@
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &eWoodTurret/Crane - Available From Sailor &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/</URL>
+<T>&8[ &eWoodTurret/Crane - Available From Sailor &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/#woodturret</URL>
 
 &eMinSize: &720 Blocks&r
 &eMaxSize: &7350 Blocks&r
@@ -172,7 +172,7 @@
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &eStoneTurret/Crane - Available From Sailor &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/</URL>
+<T>&8[ &eStoneTurret/Crane - Available From Sailor &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/#stoneturret</URL>
 
 &eMinSize: &720 Blocks&r
 &eMaxSize: &7350 Blocks&r
@@ -182,5 +182,5 @@
 &6The only motion these subcrafts have is to rotate. These are designed to be used as subcrafts on existing crafts for Rotating cannon turrets, or rotating cranes on ships
 
 <T>&8  » [ &eView Detailed Ship Guide &8]</T><H>&aGo to the in-depth ship page on our website</H><URL>https://piratemc.com/guides/ships/</URL>
-<T>&8  » [ &eTeleport to the Port &8]</T><H>&aGo to the ships warp</H><C>warp ships</C>
+<T>&8  » [ &eTeleport to the Ship Port &8]</T><H>&aGo to the ships warp</H><C>warp ships</C>
 &f
