@@ -1,10 +1,10 @@
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &6&lRear Admiral &8]</T>
+<T>&8[ &6&lRear-Admiral &8]</T>
 
 &6&lCallieMav
-&7Rear Admiral since January 2015
+&7Rear-Admiral since January 2015
 &7 
 &7&o"The one constant in the universe is change
 &7&oChaos >= universe"
