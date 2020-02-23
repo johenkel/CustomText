@@ -1,7 +1,7 @@
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &6&lRear-Admiral &8]</T>
+&8[ &6&lRear-Admiral &8]
 
 &6&lMrBluBeardedYeti
 &7Rear-Admiral ~ No longer active. November 2016
