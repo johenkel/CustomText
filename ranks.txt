@@ -41,3 +41,4 @@
 &7»&c Admiral&7 Owner
 
 <T>&8  » [ &eFull Rank Information & Commands List&8]</T><H>&aGo to the in-depth rank page on our website</H><URL>https://piratemc.com/guides/ranks/</URL>
+&f
