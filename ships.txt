@@ -164,7 +164,7 @@
 &eMinSize: &720 Blocks&r
 &eMaxSize: &7350 Blocks&r
 &eRotationSpeed: &75.0&r
-&eRequiredtoManeuvre: &750%of wooden blocks. 1% IronBlock&r
+&eRequiredtoManeuvre: &750% of wooden blocks. 1% IronBlock&r
 &eChestBlockAllowance: &71.5%&r
 &6The only motion these subcrafts have is to rotate. These are designed to be used as subcrafts on existing crafts for Rotating cannon turrets, or rotating cranes on ships
 
@@ -177,7 +177,7 @@
 &eMinSize: &720 Blocks&r
 &eMaxSize: &7350 Blocks&r
 &eRotationSpeed: &75.0&r
-&eRequiredtoManeuvre: &750%of Stone blocks. 1% IronBlock&r
+&eRequiredtoManeuvre: &750% of Stone blocks. 1% IronBlock&r
 &eChestBlockAllowance: &71.5%&r
 &6The only motion these subcrafts have is to rotate. These are designed to be used as subcrafts on existing crafts for Rotating cannon turrets, or rotating cranes on ships
 
