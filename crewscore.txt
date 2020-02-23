@@ -1,9 +1,10 @@
 
        &7&l&m----------&8&l&m----&7&l&m----------
 
-<T>&8[ &eCrew Score &8]</T><H>Go to the crews page on our website</H><URL>https://piratemc.com/guides/crews/</URL>
+<T>&8[ &eCrew Score &8]</T><H>&aGo to the crews page on our website</H><URL>https://piratemc.com/guides/crews/</URL>
 
 &7How are crew scores calucated?
 &7Your score will increase as your crew gains more claims, money, members, allies, KDR, and becomes more active.
 
 &6/crewscore &7& &6/crewtop
+&f
