@@ -10,7 +10,7 @@
 &e4.&7 No hacking, xray, cheating or exploiting glitches. No client mod(s).
 &e5.&7 No begging. Goods will not be replenished.
 &e6.&7 Only claim land intended for use. Do not build close to spawn.
-&e7.&7 No advertising at all.
+&e7.&7 No advertising or mentioning other servers at all.
 &e8.&7 Do not cheat &6/stats&7, bounties or abuse game mechanics.
 &e9.&7 Keep chat readable, English only and PG-rated. (No spam or caps abuse)
 &e10.&7 Use common sense.
@@ -24,7 +24,7 @@
 &e1.&7 No offensive structures.
 &e2.&7 No building within eyesight of any &6/travel&7 warps including &6/spawn&7.
 &e3.&7 No building outside of worlds (Not on top of nether)
-&e4.&7 Do not grief, only destroy &lnecessary blocks &7when sieging. 
+&e4.&7 Do not grief. Only destroy &lnecessary &7blocks when sieging. 
 &e5.&7 Do not build 1x1 towers, temporary use only.
 &e6.&7 Be responsible with the privileges you are given as a Builder/Mod
 
@@ -43,4 +43,4 @@
 
 <T>&8  » [ &eView Detailed Rules &8]</T><H>&aGo to the in-depth rules page on our website</H><URL>https://piratemc.com/information/rules/</URL>
 <T>&8  » [ &ePlayer Punishment History &8]</T><H>&aGo to the punishments lookup website</H><URL>https://piratemc.com/punishments/</URL>
-
+&f
