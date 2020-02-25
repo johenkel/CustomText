@@ -37,8 +37,9 @@
 &7Punishments can be singular or a mix of the following: 
   &8» &7&oHandcuffed, Warning, Kick, Jail, Locker, Temp & Permanent Mute, Temp & Permanent Ban, Stats & Rank reset&r.
 
-&e3&7 Warnings of any kind are grounds for a permanent ban.
+&7Warnings of any kind are grounds for a permanent ban.
 &7No sanction appeal ingame. Do not try to pass over a sanction.
+&7Do not harass or argue with staff about sanctions, use the forums.
 
 <T>&8  » [ &eView Detailed Rules &8]</T><H>&aGo to the in-depth rules page on our website</H><URL>https://piratemc.com/information/rules/</URL>
 <T>&8  » [ &ePlayer Punishment History &8]</T><H>&aGo to the punishments lookup website</H><URL>https://piratemc.com/punishments/</URL>
