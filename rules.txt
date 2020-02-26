@@ -11,8 +11,8 @@
 &e5.&7 No begging. Goods will not be replenished.
 &e6.&7 Only claim land intended for use. Do not build close to spawn.
 &e7.&7 No advertising or mentioning other servers at all.
-&e8.&7 Do not cheat &6/stats&7, bounties or abuse game mechanics.
-&e9.&7 Keep chat readable, English only and PG-rated. (No spam or caps abuse)
+&e8.&7 Do not cheat &6/stats&7, bounties, afk bypass or abuse game mechanics.
+&e9.&7 Keep chat readable, English only and PG-rated. (No spam or caps abuse).
 &e10.&7 Use common sense.
 
 <NextPage>
@@ -23,10 +23,10 @@
 
 &e1.&7 No offensive structures.
 &e2.&7 No building within eyesight of any &6/travel&7 warps including &6/spawn&7.
-&e3.&7 No building outside of worlds (Not on top of nether)
-&e4.&7 Do not grief. Only destroy &lnecessary &7blocks when sieging. 
+&e3.&7 No building outside of worlds (Not on top of nether).
+&e4.&7 Do not grief. When sieging, destroy &lnecessary &7blocks only.
 &e5.&7 Do not build 1x1 towers, temporary use only.
-&e6.&7 Be responsible with the privileges you are given as a Builder/Mod
+&e6.&7 Be responsible with the privileges you are given as a Builder/Mod.
 
 <NextPage>
 
